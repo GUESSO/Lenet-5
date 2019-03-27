@@ -1,0 +1,2799 @@
+train_bacth_num:0 start
+train_batch_num 0 uses time 6.876979s
+train_batch_num:0---loss:2.300863---accuracy:0.080000---
+
+train_bacth_num:1 start
+train_batch_num 1 uses time 6.829396s
+train_batch_num:1---loss:2.286227---accuracy:0.200000---
+
+train_bacth_num:2 start
+train_batch_num 2 uses time 7.223600s
+train_batch_num:2---loss:2.277465---accuracy:0.280000---
+
+train_bacth_num:3 start
+train_batch_num 3 uses time 6.868694s
+train_batch_num:3---loss:2.271605---accuracy:0.220000---
+
+train_bacth_num:4 start
+train_batch_num 4 uses time 6.899815s
+train_batch_num:4---loss:2.262319---accuracy:0.370000---
+
+train_bacth_num:5 start
+train_batch_num 5 uses time 7.020479s
+train_batch_num:5---loss:2.267702---accuracy:0.280000---
+
+train_bacth_num:6 start
+train_batch_num 6 uses time 7.813141s
+train_batch_num:6---loss:2.247173---accuracy:0.310000---
+
+train_bacth_num:7 start
+train_batch_num 7 uses time 7.523445s
+train_batch_num:7---loss:2.256699---accuracy:0.290000---
+
+train_bacth_num:8 start
+train_batch_num 8 uses time 7.797131s
+train_batch_num:8---loss:2.226113---accuracy:0.340000---
+
+train_bacth_num:9 start
+train_batch_num 9 uses time 6.772476s
+train_batch_num:9---loss:2.217418---accuracy:0.340000---
+
+train_bacth_num:10 start
+train_batch_num 10 uses time 6.981105s
+train_batch_num:10---loss:2.209529---accuracy:0.430000---
+
+train_bacth_num:11 start
+train_batch_num 11 uses time 7.019271s
+train_batch_num:11---loss:2.173571---accuracy:0.360000---
+
+train_bacth_num:12 start
+train_batch_num 12 uses time 6.952633s
+train_batch_num:12---loss:2.178511---accuracy:0.330000---
+
+train_bacth_num:13 start
+train_batch_num 13 uses time 6.745696s
+train_batch_num:13---loss:2.140441---accuracy:0.340000---
+
+train_bacth_num:14 start
+train_batch_num 14 uses time 6.695362s
+train_batch_num:14---loss:2.119134---accuracy:0.460000---
+
+train_bacth_num:15 start
+train_batch_num 15 uses time 6.599200s
+train_batch_num:15---loss:2.096648---accuracy:0.520000---
+
+train_bacth_num:16 start
+train_batch_num 16 uses time 6.696884s
+train_batch_num:16---loss:1.972330---accuracy:0.580000---
+
+train_bacth_num:17 start
+train_batch_num 17 uses time 6.801741s
+train_batch_num:17---loss:1.919955---accuracy:0.550000---
+
+train_bacth_num:18 start
+train_batch_num 18 uses time 7.291613s
+train_batch_num:18---loss:1.843950---accuracy:0.520000---
+
+train_bacth_num:19 start
+train_batch_num 19 uses time 6.964411s
+train_batch_num:19---loss:1.725493---accuracy:0.540000---
+
+train_bacth_num:20 start
+train_batch_num 20 uses time 6.786633s
+train_batch_num:20---loss:1.699782---accuracy:0.560000---
+
+train_bacth_num:21 start
+train_batch_num 21 uses time 6.812826s
+train_batch_num:21---loss:1.461821---accuracy:0.680000---
+
+train_bacth_num:22 start
+train_batch_num 22 uses time 6.560624s
+train_batch_num:22---loss:1.357281---accuracy:0.670000---
+
+train_bacth_num:23 start
+train_batch_num 23 uses time 6.700356s
+train_batch_num:23---loss:1.316579---accuracy:0.690000---
+
+train_bacth_num:24 start
+train_batch_num 24 uses time 6.708820s
+train_batch_num:24---loss:1.188166---accuracy:0.750000---
+
+train_bacth_num:25 start
+train_batch_num 25 uses time 6.457819s
+train_batch_num:25---loss:1.082490---accuracy:0.680000---
+
+train_bacth_num:26 start
+train_batch_num 26 uses time 6.715710s
+train_batch_num:26---loss:0.978314---accuracy:0.750000---
+
+train_bacth_num:27 start
+train_batch_num 27 uses time 6.828863s
+train_batch_num:27---loss:0.908024---accuracy:0.760000---
+
+train_bacth_num:28 start
+train_batch_num 28 uses time 6.693168s
+train_batch_num:28---loss:0.711074---accuracy:0.770000---
+
+train_bacth_num:29 start
+train_batch_num 29 uses time 6.838809s
+train_batch_num:29---loss:0.882535---accuracy:0.760000---
+
+train_bacth_num:30 start
+train_batch_num 30 uses time 6.863462s
+train_batch_num:30---loss:0.953376---accuracy:0.650000---
+
+train_bacth_num:31 start
+train_batch_num 31 uses time 6.819192s
+train_batch_num:31---loss:0.708229---accuracy:0.830000---
+
+train_bacth_num:32 start
+train_batch_num 32 uses time 6.681657s
+train_batch_num:32---loss:0.769737---accuracy:0.780000---
+
+train_bacth_num:33 start
+train_batch_num 33 uses time 6.734970s
+train_batch_num:33---loss:0.806235---accuracy:0.730000---
+
+train_bacth_num:34 start
+train_batch_num 34 uses time 6.835908s
+train_batch_num:34---loss:0.682566---accuracy:0.740000---
+
+train_bacth_num:35 start
+train_batch_num 35 uses time 6.757861s
+train_batch_num:35---loss:0.756665---accuracy:0.720000---
+
+train_bacth_num:36 start
+train_batch_num 36 uses time 6.595817s
+train_batch_num:36---loss:0.672137---accuracy:0.780000---
+
+train_bacth_num:37 start
+train_batch_num 37 uses time 6.531134s
+train_batch_num:37---loss:0.635513---accuracy:0.840000---
+
+train_bacth_num:38 start
+train_batch_num 38 uses time 6.560512s
+train_batch_num:38---loss:0.541408---accuracy:0.840000---
+
+train_bacth_num:39 start
+train_batch_num 39 uses time 7.092796s
+train_batch_num:39---loss:0.461087---accuracy:0.890000---
+
+train_bacth_num:40 start
+train_batch_num 40 uses time 6.935321s
+train_batch_num:40---loss:0.597405---accuracy:0.830000---
+
+train_bacth_num:41 start
+train_batch_num 41 uses time 6.562281s
+train_batch_num:41---loss:0.706293---accuracy:0.830000---
+
+train_bacth_num:42 start
+train_batch_num 42 uses time 6.919726s
+train_batch_num:42---loss:0.418501---accuracy:0.890000---
+
+train_bacth_num:43 start
+train_batch_num 43 uses time 6.544898s
+train_batch_num:43---loss:0.586990---accuracy:0.810000---
+
+train_bacth_num:44 start
+train_batch_num 44 uses time 6.838522s
+train_batch_num:44---loss:0.514155---accuracy:0.850000---
+
+train_bacth_num:45 start
+train_batch_num 45 uses time 7.529419s
+train_batch_num:45---loss:0.401565---accuracy:0.880000---
+
+train_bacth_num:46 start
+train_batch_num 46 uses time 6.631639s
+train_batch_num:46---loss:0.531997---accuracy:0.860000---
+
+train_bacth_num:47 start
+train_batch_num 47 uses time 6.735629s
+train_batch_num:47---loss:0.532460---accuracy:0.860000---
+
+train_bacth_num:48 start
+train_batch_num 48 uses time 6.695651s
+train_batch_num:48---loss:0.521083---accuracy:0.850000---
+
+train_bacth_num:49 start
+train_batch_num 49 uses time 6.753607s
+train_batch_num:49---loss:0.643388---accuracy:0.840000---
+
+train_bacth_num:50 start
+train_batch_num 50 uses time 6.575653s
+train_batch_num:50---loss:0.492444---accuracy:0.860000---
+
+train_bacth_num:51 start
+train_batch_num 51 uses time 6.584016s
+train_batch_num:51---loss:0.667077---accuracy:0.760000---
+
+train_bacth_num:52 start
+train_batch_num 52 uses time 6.737540s
+train_batch_num:52---loss:0.438646---accuracy:0.880000---
+
+train_bacth_num:53 start
+train_batch_num 53 uses time 6.639938s
+train_batch_num:53---loss:0.489419---accuracy:0.880000---
+
+train_bacth_num:54 start
+train_batch_num 54 uses time 7.173677s
+train_batch_num:54---loss:0.379057---accuracy:0.890000---
+
+train_bacth_num:55 start
+train_batch_num 55 uses time 7.438032s
+train_batch_num:55---loss:0.483967---accuracy:0.840000---
+
+train_bacth_num:56 start
+train_batch_num 56 uses time 7.326964s
+train_batch_num:56---loss:0.422131---accuracy:0.880000---
+
+train_bacth_num:57 start
+train_batch_num 57 uses time 6.575126s
+train_batch_num:57---loss:0.456504---accuracy:0.870000---
+
+train_bacth_num:58 start
+train_batch_num 58 uses time 6.517779s
+train_batch_num:58---loss:0.552069---accuracy:0.830000---
+
+train_bacth_num:59 start
+train_batch_num 59 uses time 6.499564s
+train_batch_num:59---loss:0.394815---accuracy:0.920000---
+
+train_bacth_num:60 start
+train_batch_num 60 uses time 7.411044s
+train_batch_num:60---loss:0.268888---accuracy:0.940000---
+
+train_bacth_num:61 start
+train_batch_num 61 uses time 7.629136s
+train_batch_num:61---loss:0.352306---accuracy:0.940000---
+
+train_bacth_num:62 start
+train_batch_num 62 uses time 6.921451s
+train_batch_num:62---loss:0.336408---accuracy:0.920000---
+
+train_bacth_num:63 start
+train_batch_num 63 uses time 6.663954s
+train_batch_num:63---loss:0.271741---accuracy:0.910000---
+
+train_bacth_num:64 start
+train_batch_num 64 uses time 6.926132s
+train_batch_num:64---loss:0.397970---accuracy:0.920000---
+
+train_bacth_num:65 start
+train_batch_num 65 uses time 6.771891s
+train_batch_num:65---loss:0.181081---accuracy:0.960000---
+
+train_bacth_num:66 start
+train_batch_num 66 uses time 6.634854s
+train_batch_num:66---loss:0.401929---accuracy:0.910000---
+
+train_bacth_num:67 start
+train_batch_num 67 uses time 6.758279s
+train_batch_num:67---loss:0.291551---accuracy:0.910000---
+
+train_bacth_num:68 start
+train_batch_num 68 uses time 6.642724s
+train_batch_num:68---loss:0.538082---accuracy:0.800000---
+
+train_bacth_num:69 start
+train_batch_num 69 uses time 6.645255s
+train_batch_num:69---loss:0.483263---accuracy:0.810000---
+
+train_bacth_num:70 start
+train_batch_num 70 uses time 6.601997s
+train_batch_num:70---loss:0.552320---accuracy:0.820000---
+
+train_bacth_num:71 start
+train_batch_num 71 uses time 6.529430s
+train_batch_num:71---loss:0.418071---accuracy:0.880000---
+
+train_bacth_num:72 start
+train_batch_num 72 uses time 7.419149s
+train_batch_num:72---loss:0.527591---accuracy:0.840000---
+
+train_bacth_num:73 start
+train_batch_num 73 uses time 7.089468s
+train_batch_num:73---loss:0.433715---accuracy:0.920000---
+
+train_bacth_num:74 start
+train_batch_num 74 uses time 6.857923s
+train_batch_num:74---loss:0.339533---accuracy:0.910000---
+
+train_bacth_num:75 start
+train_batch_num 75 uses time 6.730288s
+train_batch_num:75---loss:0.290430---accuracy:0.900000---
+
+train_bacth_num:76 start
+train_batch_num 76 uses time 7.617908s
+train_batch_num:76---loss:0.404104---accuracy:0.850000---
+
+train_bacth_num:77 start
+train_batch_num 77 uses time 6.657265s
+train_batch_num:77---loss:0.435420---accuracy:0.860000---
+
+train_bacth_num:78 start
+train_batch_num 78 uses time 6.564903s
+train_batch_num:78---loss:0.555886---accuracy:0.820000---
+
+train_bacth_num:79 start
+train_batch_num 79 uses time 6.794270s
+train_batch_num:79---loss:0.367447---accuracy:0.860000---
+
+train_bacth_num:80 start
+train_batch_num 80 uses time 6.716765s
+train_batch_num:80---loss:0.178098---accuracy:0.960000---
+
+train_bacth_num:81 start
+train_batch_num 81 uses time 6.867704s
+train_batch_num:81---loss:0.400656---accuracy:0.870000---
+
+train_bacth_num:82 start
+train_batch_num 82 uses time 6.815979s
+train_batch_num:82---loss:0.569894---accuracy:0.850000---
+
+train_bacth_num:83 start
+train_batch_num 83 uses time 7.106848s
+train_batch_num:83---loss:0.239958---accuracy:0.910000---
+
+train_bacth_num:84 start
+train_batch_num 84 uses time 6.586592s
+train_batch_num:84---loss:0.482934---accuracy:0.860000---
+
+train_bacth_num:85 start
+train_batch_num 85 uses time 6.518652s
+train_batch_num:85---loss:0.209928---accuracy:0.930000---
+
+train_bacth_num:86 start
+train_batch_num 86 uses time 6.655477s
+train_batch_num:86---loss:0.463523---accuracy:0.870000---
+
+train_bacth_num:87 start
+train_batch_num 87 uses time 6.922084s
+train_batch_num:87---loss:0.637606---accuracy:0.830000---
+
+train_bacth_num:88 start
+train_batch_num 88 uses time 6.550262s
+train_batch_num:88---loss:0.421792---accuracy:0.860000---
+
+train_bacth_num:89 start
+train_batch_num 89 uses time 7.334423s
+train_batch_num:89---loss:0.316473---accuracy:0.900000---
+
+train_bacth_num:90 start
+train_batch_num 90 uses time 6.593670s
+train_batch_num:90---loss:0.236010---accuracy:0.910000---
+
+train_bacth_num:91 start
+train_batch_num 91 uses time 6.568638s
+train_batch_num:91---loss:0.341281---accuracy:0.920000---
+
+train_bacth_num:92 start
+train_batch_num 92 uses time 6.466183s
+train_batch_num:92---loss:0.339359---accuracy:0.910000---
+
+train_bacth_num:93 start
+train_batch_num 93 uses time 6.678091s
+train_batch_num:93---loss:0.356164---accuracy:0.880000---
+
+train_bacth_num:94 start
+train_batch_num 94 uses time 6.697327s
+train_batch_num:94---loss:0.446374---accuracy:0.830000---
+
+train_bacth_num:95 start
+train_batch_num 95 uses time 6.483425s
+train_batch_num:95---loss:0.330509---accuracy:0.890000---
+
+train_bacth_num:96 start
+train_batch_num 96 uses time 6.684831s
+train_batch_num:96---loss:0.239528---accuracy:0.920000---
+
+train_bacth_num:97 start
+train_batch_num 97 uses time 6.684333s
+train_batch_num:97---loss:0.291097---accuracy:0.930000---
+
+train_bacth_num:98 start
+train_batch_num 98 uses time 6.686944s
+train_batch_num:98---loss:0.198608---accuracy:0.950000---
+
+train_bacth_num:99 start
+train_batch_num 99 uses time 6.563183s
+train_batch_num:99---loss:0.184947---accuracy:0.940000---
+
+train_bacth_num:100 start
+train_batch_num 100 uses time 6.559461s
+train_batch_num:100---loss:0.410378---accuracy:0.880000---
+
+train_bacth_num:101 start
+train_batch_num 101 uses time 6.441643s
+train_batch_num:101---loss:0.315344---accuracy:0.910000---
+
+train_bacth_num:102 start
+train_batch_num 102 uses time 6.542579s
+train_batch_num:102---loss:0.407686---accuracy:0.870000---
+
+train_bacth_num:103 start
+train_batch_num 103 uses time 7.135736s
+train_batch_num:103---loss:0.167462---accuracy:0.940000---
+
+train_bacth_num:104 start
+train_batch_num 104 uses time 6.485734s
+train_batch_num:104---loss:0.206829---accuracy:0.960000---
+
+train_bacth_num:105 start
+train_batch_num 105 uses time 6.572404s
+train_batch_num:105---loss:0.136066---accuracy:0.960000---
+
+train_bacth_num:106 start
+train_batch_num 106 uses time 6.539306s
+train_batch_num:106---loss:0.152683---accuracy:0.950000---
+
+train_bacth_num:107 start
+train_batch_num 107 uses time 6.463213s
+train_batch_num:107---loss:0.459496---accuracy:0.860000---
+
+train_bacth_num:108 start
+train_batch_num 108 uses time 6.831383s
+train_batch_num:108---loss:0.217419---accuracy:0.960000---
+
+train_bacth_num:109 start
+train_batch_num 109 uses time 6.814873s
+train_batch_num:109---loss:0.254040---accuracy:0.910000---
+
+train_bacth_num:110 start
+train_batch_num 110 uses time 7.188149s
+train_batch_num:110---loss:0.337308---accuracy:0.920000---
+
+train_bacth_num:111 start
+train_batch_num 111 uses time 7.177488s
+train_batch_num:111---loss:0.255157---accuracy:0.920000---
+
+train_bacth_num:112 start
+train_batch_num 112 uses time 6.900205s
+train_batch_num:112---loss:0.330907---accuracy:0.860000---
+
+train_bacth_num:113 start
+train_batch_num 113 uses time 6.579750s
+train_batch_num:113---loss:0.247562---accuracy:0.910000---
+
+train_bacth_num:114 start
+train_batch_num 114 uses time 7.092626s
+train_batch_num:114---loss:0.198393---accuracy:0.940000---
+
+train_bacth_num:115 start
+train_batch_num 115 uses time 7.203443s
+train_batch_num:115---loss:0.471511---accuracy:0.830000---
+
+train_bacth_num:116 start
+train_batch_num 116 uses time 7.251872s
+train_batch_num:116---loss:0.309286---accuracy:0.860000---
+
+train_bacth_num:117 start
+train_batch_num 117 uses time 7.504606s
+train_batch_num:117---loss:0.352376---accuracy:0.910000---
+
+train_bacth_num:118 start
+train_batch_num 118 uses time 6.891787s
+train_batch_num:118---loss:0.241819---accuracy:0.910000---
+
+train_bacth_num:119 start
+train_batch_num 119 uses time 7.093201s
+train_batch_num:119---loss:0.261385---accuracy:0.930000---
+
+train_bacth_num:120 start
+train_batch_num 120 uses time 7.091865s
+train_batch_num:120---loss:0.241405---accuracy:0.920000---
+
+train_bacth_num:121 start
+train_batch_num 121 uses time 6.910992s
+train_batch_num:121---loss:0.146699---accuracy:0.940000---
+
+train_bacth_num:122 start
+train_batch_num 122 uses time 6.848900s
+train_batch_num:122---loss:0.227647---accuracy:0.900000---
+
+train_bacth_num:123 start
+train_batch_num 123 uses time 7.215080s
+train_batch_num:123---loss:0.255225---accuracy:0.920000---
+
+train_bacth_num:124 start
+train_batch_num 124 uses time 6.913514s
+train_batch_num:124---loss:0.243782---accuracy:0.920000---
+
+train_bacth_num:125 start
+train_batch_num 125 uses time 6.915272s
+train_batch_num:125---loss:0.391052---accuracy:0.870000---
+
+train_bacth_num:126 start
+train_batch_num 126 uses time 6.876897s
+train_batch_num:126---loss:0.459384---accuracy:0.860000---
+
+train_bacth_num:127 start
+train_batch_num 127 uses time 6.931258s
+train_batch_num:127---loss:0.233330---accuracy:0.930000---
+
+train_bacth_num:128 start
+train_batch_num 128 uses time 6.950269s
+train_batch_num:128---loss:0.151272---accuracy:0.950000---
+
+train_bacth_num:129 start
+train_batch_num 129 uses time 6.942339s
+train_batch_num:129---loss:0.393457---accuracy:0.850000---
+
+train_bacth_num:130 start
+train_batch_num 130 uses time 6.936914s
+train_batch_num:130---loss:0.449046---accuracy:0.860000---
+
+train_bacth_num:131 start
+train_batch_num 131 uses time 6.809288s
+train_batch_num:131---loss:0.357316---accuracy:0.860000---
+
+train_bacth_num:132 start
+train_batch_num 132 uses time 7.127012s
+train_batch_num:132---loss:0.120228---accuracy:0.980000---
+
+train_bacth_num:133 start
+train_batch_num 133 uses time 6.878370s
+train_batch_num:133---loss:0.214600---accuracy:0.940000---
+
+train_bacth_num:134 start
+train_batch_num 134 uses time 6.769544s
+train_batch_num:134---loss:0.217080---accuracy:0.930000---
+
+train_bacth_num:135 start
+train_batch_num 135 uses time 6.911898s
+train_batch_num:135---loss:0.211539---accuracy:0.960000---
+
+train_bacth_num:136 start
+train_batch_num 136 uses time 6.780988s
+train_batch_num:136---loss:0.289352---accuracy:0.940000---
+
+train_bacth_num:137 start
+train_batch_num 137 uses time 7.018274s
+train_batch_num:137---loss:0.341251---accuracy:0.880000---
+
+train_bacth_num:138 start
+train_batch_num 138 uses time 6.836860s
+train_batch_num:138---loss:0.233057---accuracy:0.940000---
+
+train_bacth_num:139 start
+train_batch_num 139 uses time 7.013271s
+train_batch_num:139---loss:0.445077---accuracy:0.880000---
+
+train_bacth_num:140 start
+train_batch_num 140 uses time 7.115607s
+train_batch_num:140---loss:0.320332---accuracy:0.920000---
+
+train_bacth_num:141 start
+train_batch_num 141 uses time 6.937635s
+train_batch_num:141---loss:0.216653---accuracy:0.950000---
+
+train_bacth_num:142 start
+train_batch_num 142 uses time 7.248490s
+train_batch_num:142---loss:0.297515---accuracy:0.900000---
+
+train_bacth_num:143 start
+train_batch_num 143 uses time 6.849970s
+train_batch_num:143---loss:0.377621---accuracy:0.900000---
+
+train_bacth_num:144 start
+train_batch_num 144 uses time 7.045136s
+train_batch_num:144---loss:0.157618---accuracy:0.950000---
+
+train_bacth_num:145 start
+train_batch_num 145 uses time 7.022966s
+train_batch_num:145---loss:0.283848---accuracy:0.890000---
+
+train_bacth_num:146 start
+train_batch_num 146 uses time 6.850715s
+train_batch_num:146---loss:0.306731---accuracy:0.900000---
+
+train_bacth_num:147 start
+train_batch_num 147 uses time 6.836584s
+train_batch_num:147---loss:0.433249---accuracy:0.870000---
+
+train_bacth_num:148 start
+train_batch_num 148 uses time 7.306252s
+train_batch_num:148---loss:0.236582---accuracy:0.930000---
+
+train_bacth_num:149 start
+train_batch_num 149 uses time 6.820597s
+train_batch_num:149---loss:0.169073---accuracy:0.940000---
+
+train_bacth_num:150 start
+train_batch_num 150 uses time 6.958769s
+train_batch_num:150---loss:0.144198---accuracy:0.970000---
+
+train_bacth_num:151 start
+train_batch_num 151 uses time 7.121898s
+train_batch_num:151---loss:0.318713---accuracy:0.900000---
+
+train_bacth_num:152 start
+train_batch_num 152 uses time 6.837733s
+train_batch_num:152---loss:0.234188---accuracy:0.910000---
+
+train_bacth_num:153 start
+train_batch_num 153 uses time 6.848116s
+train_batch_num:153---loss:0.146614---accuracy:0.970000---
+
+train_bacth_num:154 start
+train_batch_num 154 uses time 7.222419s
+train_batch_num:154---loss:0.243605---accuracy:0.940000---
+
+train_bacth_num:155 start
+train_batch_num 155 uses time 7.213970s
+train_batch_num:155---loss:0.183301---accuracy:0.960000---
+
+train_bacth_num:156 start
+train_batch_num 156 uses time 6.971806s
+train_batch_num:156---loss:0.131307---accuracy:0.950000---
+
+train_bacth_num:157 start
+train_batch_num 157 uses time 6.692625s
+train_batch_num:157---loss:0.390845---accuracy:0.850000---
+
+train_bacth_num:158 start
+train_batch_num 158 uses time 6.783927s
+train_batch_num:158---loss:0.410043---accuracy:0.890000---
+
+train_bacth_num:159 start
+train_batch_num 159 uses time 6.843655s
+train_batch_num:159---loss:0.348122---accuracy:0.930000---
+
+train_bacth_num:160 start
+train_batch_num 160 uses time 6.724910s
+train_batch_num:160---loss:0.343484---accuracy:0.900000---
+
+train_bacth_num:161 start
+train_batch_num 161 uses time 6.921554s
+train_batch_num:161---loss:0.164953---accuracy:0.960000---
+
+train_bacth_num:162 start
+train_batch_num 162 uses time 7.182038s
+train_batch_num:162---loss:0.147317---accuracy:0.960000---
+
+train_bacth_num:163 start
+train_batch_num 163 uses time 6.827359s
+train_batch_num:163---loss:0.097297---accuracy:0.970000---
+
+train_bacth_num:164 start
+train_batch_num 164 uses time 6.894154s
+train_batch_num:164---loss:0.235362---accuracy:0.920000---
+
+train_bacth_num:165 start
+train_batch_num 165 uses time 6.492838s
+train_batch_num:165---loss:0.279204---accuracy:0.940000---
+
+train_bacth_num:166 start
+train_batch_num 166 uses time 6.633714s
+train_batch_num:166---loss:0.290245---accuracy:0.930000---
+
+train_bacth_num:167 start
+train_batch_num 167 uses time 6.583492s
+train_batch_num:167---loss:0.312287---accuracy:0.880000---
+
+train_bacth_num:168 start
+train_batch_num 168 uses time 6.748994s
+train_batch_num:168---loss:0.164453---accuracy:0.950000---
+
+train_bacth_num:169 start
+train_batch_num 169 uses time 6.557192s
+train_batch_num:169---loss:0.233068---accuracy:0.900000---
+
+train_bacth_num:170 start
+train_batch_num 170 uses time 6.472094s
+train_batch_num:170---loss:0.252344---accuracy:0.930000---
+
+train_bacth_num:171 start
+train_batch_num 171 uses time 6.519529s
+train_batch_num:171---loss:0.192973---accuracy:0.930000---
+
+train_bacth_num:172 start
+train_batch_num 172 uses time 6.590139s
+train_batch_num:172---loss:0.295583---accuracy:0.900000---
+
+train_bacth_num:173 start
+train_batch_num 173 uses time 6.553784s
+train_batch_num:173---loss:0.110964---accuracy:0.970000---
+
+train_bacth_num:174 start
+train_batch_num 174 uses time 6.976531s
+train_batch_num:174---loss:0.282216---accuracy:0.870000---
+
+train_bacth_num:175 start
+train_batch_num 175 uses time 6.835300s
+train_batch_num:175---loss:0.377743---accuracy:0.900000---
+
+train_bacth_num:176 start
+train_batch_num 176 uses time 7.275125s
+train_batch_num:176---loss:0.202846---accuracy:0.950000---
+
+train_bacth_num:177 start
+train_batch_num 177 uses time 6.438048s
+train_batch_num:177---loss:0.231683---accuracy:0.970000---
+
+train_bacth_num:178 start
+train_batch_num 178 uses time 6.697255s
+train_batch_num:178---loss:0.229167---accuracy:0.910000---
+
+train_bacth_num:179 start
+train_batch_num 179 uses time 7.046678s
+train_batch_num:179---loss:0.185570---accuracy:0.930000---
+
+train_bacth_num:180 start
+train_batch_num 180 uses time 6.634611s
+train_batch_num:180---loss:0.192132---accuracy:0.960000---
+
+train_bacth_num:181 start
+train_batch_num 181 uses time 6.455788s
+train_batch_num:181---loss:0.122997---accuracy:0.950000---
+
+train_bacth_num:182 start
+train_batch_num 182 uses time 6.564101s
+train_batch_num:182---loss:0.136876---accuracy:0.960000---
+
+train_bacth_num:183 start
+train_batch_num 183 uses time 6.415804s
+train_batch_num:183---loss:0.139621---accuracy:0.980000---
+
+train_bacth_num:184 start
+train_batch_num 184 uses time 6.500650s
+train_batch_num:184---loss:0.209497---accuracy:0.930000---
+
+train_bacth_num:185 start
+train_batch_num 185 uses time 6.570532s
+train_batch_num:185---loss:0.164687---accuracy:0.950000---
+
+train_bacth_num:186 start
+train_batch_num 186 uses time 6.816143s
+train_batch_num:186---loss:0.189011---accuracy:0.920000---
+
+train_bacth_num:187 start
+train_batch_num 187 uses time 6.609815s
+train_batch_num:187---loss:0.220691---accuracy:0.930000---
+
+train_bacth_num:188 start
+train_batch_num 188 uses time 6.488909s
+train_batch_num:188---loss:0.126282---accuracy:0.950000---
+
+train_bacth_num:189 start
+train_batch_num 189 uses time 6.452716s
+train_batch_num:189---loss:0.100199---accuracy:0.970000---
+
+train_bacth_num:190 start
+train_batch_num 190 uses time 6.741391s
+train_batch_num:190---loss:0.270900---accuracy:0.940000---
+
+train_bacth_num:191 start
+train_batch_num 191 uses time 6.625374s
+train_batch_num:191---loss:0.236555---accuracy:0.930000---
+
+train_bacth_num:192 start
+train_batch_num 192 uses time 6.770775s
+train_batch_num:192---loss:0.175128---accuracy:0.960000---
+
+train_bacth_num:193 start
+train_batch_num 193 uses time 6.849513s
+train_batch_num:193---loss:0.190123---accuracy:0.940000---
+
+train_bacth_num:194 start
+train_batch_num 194 uses time 6.621915s
+train_batch_num:194---loss:0.183171---accuracy:0.920000---
+
+train_bacth_num:195 start
+train_batch_num 195 uses time 6.952685s
+train_batch_num:195---loss:0.232873---accuracy:0.920000---
+
+train_bacth_num:196 start
+train_batch_num 196 uses time 6.691833s
+train_batch_num:196---loss:0.080315---accuracy:0.970000---
+
+train_bacth_num:197 start
+train_batch_num 197 uses time 6.767527s
+train_batch_num:197---loss:0.098202---accuracy:0.980000---
+
+train_bacth_num:198 start
+train_batch_num 198 uses time 6.569812s
+train_batch_num:198---loss:0.186361---accuracy:0.940000---
+
+train_bacth_num:199 start
+train_batch_num 199 uses time 6.626921s
+train_batch_num:199---loss:0.112016---accuracy:0.980000---
+
+train_bacth_num:200 start
+train_batch_num 200 uses time 6.609889s
+train_batch_num:200---loss:0.265096---accuracy:0.920000---
+
+train_bacth_num:201 start
+train_batch_num 201 uses time 6.690829s
+train_batch_num:201---loss:0.253969---accuracy:0.930000---
+
+train_bacth_num:202 start
+train_batch_num 202 uses time 6.494037s
+train_batch_num:202---loss:0.239795---accuracy:0.940000---
+
+train_bacth_num:203 start
+train_batch_num 203 uses time 6.585595s
+train_batch_num:203---loss:0.181049---accuracy:0.970000---
+
+train_bacth_num:204 start
+train_batch_num 204 uses time 6.565601s
+train_batch_num:204---loss:0.073622---accuracy:0.980000---
+
+train_bacth_num:205 start
+train_batch_num 205 uses time 6.674964s
+train_batch_num:205---loss:0.188925---accuracy:0.970000---
+
+train_bacth_num:206 start
+train_batch_num 206 uses time 6.454529s
+train_batch_num:206---loss:0.183636---accuracy:0.970000---
+
+train_bacth_num:207 start
+train_batch_num 207 uses time 6.565764s
+train_batch_num:207---loss:0.306515---accuracy:0.910000---
+
+train_bacth_num:208 start
+train_batch_num 208 uses time 6.522955s
+train_batch_num:208---loss:0.191933---accuracy:0.950000---
+
+train_bacth_num:209 start
+train_batch_num 209 uses time 6.548274s
+train_batch_num:209---loss:0.300297---accuracy:0.910000---
+
+train_bacth_num:210 start
+train_batch_num 210 uses time 6.470485s
+train_batch_num:210---loss:0.183214---accuracy:0.950000---
+
+train_bacth_num:211 start
+train_batch_num 211 uses time 7.052091s
+train_batch_num:211---loss:0.219858---accuracy:0.960000---
+
+train_bacth_num:212 start
+train_batch_num 212 uses time 7.145665s
+train_batch_num:212---loss:0.125001---accuracy:0.970000---
+
+train_bacth_num:213 start
+train_batch_num 213 uses time 7.082236s
+train_batch_num:213---loss:0.157487---accuracy:0.960000---
+
+train_bacth_num:214 start
+train_batch_num 214 uses time 6.854984s
+train_batch_num:214---loss:0.135359---accuracy:0.970000---
+
+train_bacth_num:215 start
+train_batch_num 215 uses time 7.135296s
+train_batch_num:215---loss:0.135338---accuracy:0.950000---
+
+train_bacth_num:216 start
+train_batch_num 216 uses time 6.778417s
+train_batch_num:216---loss:0.150112---accuracy:0.960000---
+
+train_bacth_num:217 start
+train_batch_num 217 uses time 7.056837s
+train_batch_num:217---loss:0.073351---accuracy:0.990000---
+
+train_bacth_num:218 start
+train_batch_num 218 uses time 6.915751s
+train_batch_num:218---loss:0.067027---accuracy:0.990000---
+
+train_bacth_num:219 start
+train_batch_num 219 uses time 6.932861s
+train_batch_num:219---loss:0.209734---accuracy:0.940000---
+
+train_bacth_num:220 start
+train_batch_num 220 uses time 6.953394s
+train_batch_num:220---loss:0.120414---accuracy:0.970000---
+
+train_bacth_num:221 start
+train_batch_num 221 uses time 6.874299s
+train_batch_num:221---loss:0.261024---accuracy:0.890000---
+
+train_bacth_num:222 start
+train_batch_num 222 uses time 6.806787s
+train_batch_num:222---loss:0.262775---accuracy:0.940000---
+
+train_bacth_num:223 start
+train_batch_num 223 uses time 6.995356s
+train_batch_num:223---loss:0.093752---accuracy:0.980000---
+
+train_bacth_num:224 start
+train_batch_num 224 uses time 6.987651s
+train_batch_num:224---loss:0.165197---accuracy:0.930000---
+
+train_bacth_num:225 start
+train_batch_num 225 uses time 6.892962s
+train_batch_num:225---loss:0.288830---accuracy:0.910000---
+
+train_bacth_num:226 start
+train_batch_num 226 uses time 7.093710s
+train_batch_num:226---loss:0.202800---accuracy:0.910000---
+
+train_bacth_num:227 start
+train_batch_num 227 uses time 6.799124s
+train_batch_num:227---loss:0.170424---accuracy:0.920000---
+
+train_bacth_num:228 start
+train_batch_num 228 uses time 6.777262s
+train_batch_num:228---loss:0.217421---accuracy:0.930000---
+
+train_bacth_num:229 start
+train_batch_num 229 uses time 6.765098s
+train_batch_num:229---loss:0.046858---accuracy:0.990000---
+
+train_bacth_num:230 start
+train_batch_num 230 uses time 6.923156s
+train_batch_num:230---loss:0.180078---accuracy:0.960000---
+
+train_bacth_num:231 start
+train_batch_num 231 uses time 6.701921s
+train_batch_num:231---loss:0.172869---accuracy:0.930000---
+
+train_bacth_num:232 start
+train_batch_num 232 uses time 6.838116s
+train_batch_num:232---loss:0.130245---accuracy:0.950000---
+
+train_bacth_num:233 start
+train_batch_num 233 uses time 6.916163s
+train_batch_num:233---loss:0.146102---accuracy:0.940000---
+
+train_bacth_num:234 start
+train_batch_num 234 uses time 6.973281s
+train_batch_num:234---loss:0.125625---accuracy:0.940000---
+
+train_bacth_num:235 start
+train_batch_num 235 uses time 6.910469s
+train_batch_num:235---loss:0.161874---accuracy:0.970000---
+
+train_bacth_num:236 start
+train_batch_num 236 uses time 7.149645s
+train_batch_num:236---loss:0.184498---accuracy:0.940000---
+
+train_bacth_num:237 start
+train_batch_num 237 uses time 7.049311s
+train_batch_num:237---loss:0.264960---accuracy:0.890000---
+
+train_bacth_num:238 start
+train_batch_num 238 uses time 7.006526s
+train_batch_num:238---loss:0.179457---accuracy:0.950000---
+
+train_bacth_num:239 start
+train_batch_num 239 uses time 6.733589s
+train_batch_num:239---loss:0.215934---accuracy:0.930000---
+
+train_bacth_num:240 start
+train_batch_num 240 uses time 6.901236s
+train_batch_num:240---loss:0.160140---accuracy:0.960000---
+
+train_bacth_num:241 start
+train_batch_num 241 uses time 6.795735s
+train_batch_num:241---loss:0.103732---accuracy:0.970000---
+
+train_bacth_num:242 start
+train_batch_num 242 uses time 6.927411s
+train_batch_num:242---loss:0.269708---accuracy:0.910000---
+
+train_bacth_num:243 start
+train_batch_num 243 uses time 6.841433s
+train_batch_num:243---loss:0.061188---accuracy:1.000000---
+
+train_bacth_num:244 start
+train_batch_num 244 uses time 6.955966s
+train_batch_num:244---loss:0.227135---accuracy:0.910000---
+
+train_bacth_num:245 start
+train_batch_num 245 uses time 6.874097s
+train_batch_num:245---loss:0.197606---accuracy:0.940000---
+
+train_bacth_num:246 start
+train_batch_num 246 uses time 6.936331s
+train_batch_num:246---loss:0.239807---accuracy:0.910000---
+
+train_bacth_num:247 start
+train_batch_num 247 uses time 6.792251s
+train_batch_num:247---loss:0.301280---accuracy:0.950000---
+
+train_bacth_num:248 start
+train_batch_num 248 uses time 6.829205s
+train_batch_num:248---loss:0.205929---accuracy:0.930000---
+
+train_bacth_num:249 start
+train_batch_num 249 uses time 6.893942s
+train_batch_num:249---loss:0.189972---accuracy:0.930000---
+
+train_bacth_num:250 start
+train_batch_num 250 uses time 6.909291s
+train_batch_num:250---loss:0.178588---accuracy:0.930000---
+
+train_bacth_num:251 start
+train_batch_num 251 uses time 6.728966s
+train_batch_num:251---loss:0.139882---accuracy:0.930000---
+
+train_bacth_num:252 start
+train_batch_num 252 uses time 7.105964s
+train_batch_num:252---loss:0.145940---accuracy:0.930000---
+
+train_bacth_num:253 start
+train_batch_num 253 uses time 7.158591s
+train_batch_num:253---loss:0.152205---accuracy:0.950000---
+
+train_bacth_num:254 start
+train_batch_num 254 uses time 7.029055s
+train_batch_num:254---loss:0.130751---accuracy:0.970000---
+
+train_bacth_num:255 start
+train_batch_num 255 uses time 7.263914s
+train_batch_num:255---loss:0.185542---accuracy:0.940000---
+
+train_bacth_num:256 start
+train_batch_num 256 uses time 6.907164s
+train_batch_num:256---loss:0.164487---accuracy:0.950000---
+
+train_bacth_num:257 start
+train_batch_num 257 uses time 7.126843s
+train_batch_num:257---loss:0.138480---accuracy:0.950000---
+
+train_bacth_num:258 start
+train_batch_num 258 uses time 6.901099s
+train_batch_num:258---loss:0.179665---accuracy:0.950000---
+
+train_bacth_num:259 start
+train_batch_num 259 uses time 6.887139s
+train_batch_num:259---loss:0.167249---accuracy:0.930000---
+
+train_bacth_num:260 start
+train_batch_num 260 uses time 7.159253s
+train_batch_num:260---loss:0.104529---accuracy:0.960000---
+
+train_bacth_num:261 start
+train_batch_num 261 uses time 6.774068s
+train_batch_num:261---loss:0.081756---accuracy:0.990000---
+
+train_bacth_num:262 start
+train_batch_num 262 uses time 6.976455s
+train_batch_num:262---loss:0.146232---accuracy:0.960000---
+
+train_bacth_num:263 start
+train_batch_num 263 uses time 7.041176s
+train_batch_num:263---loss:0.294771---accuracy:0.910000---
+
+train_bacth_num:264 start
+train_batch_num 264 uses time 7.130546s
+train_batch_num:264---loss:0.173428---accuracy:0.940000---
+
+train_bacth_num:265 start
+train_batch_num 265 uses time 7.264330s
+train_batch_num:265---loss:0.292172---accuracy:0.920000---
+
+train_bacth_num:266 start
+train_batch_num 266 uses time 6.805297s
+train_batch_num:266---loss:0.283128---accuracy:0.920000---
+
+train_bacth_num:267 start
+train_batch_num 267 uses time 7.065034s
+train_batch_num:267---loss:0.296180---accuracy:0.940000---
+
+train_bacth_num:268 start
+train_batch_num 268 uses time 6.743258s
+train_batch_num:268---loss:0.225339---accuracy:0.960000---
+
+train_bacth_num:269 start
+train_batch_num 269 uses time 7.008146s
+train_batch_num:269---loss:0.104312---accuracy:0.980000---
+
+train_bacth_num:270 start
+train_batch_num 270 uses time 6.954275s
+train_batch_num:270---loss:0.130565---accuracy:0.970000---
+
+train_bacth_num:271 start
+train_batch_num 271 uses time 7.087942s
+train_batch_num:271---loss:0.299722---accuracy:0.910000---
+
+train_bacth_num:272 start
+train_batch_num 272 uses time 6.785477s
+train_batch_num:272---loss:0.185148---accuracy:0.930000---
+
+train_bacth_num:273 start
+train_batch_num 273 uses time 7.015736s
+train_batch_num:273---loss:0.121068---accuracy:0.970000---
+
+train_bacth_num:274 start
+train_batch_num 274 uses time 6.850844s
+train_batch_num:274---loss:0.119142---accuracy:0.960000---
+
+train_bacth_num:275 start
+train_batch_num 275 uses time 6.932899s
+train_batch_num:275---loss:0.183488---accuracy:0.950000---
+
+train_bacth_num:276 start
+train_batch_num 276 uses time 6.886543s
+train_batch_num:276---loss:0.203117---accuracy:0.920000---
+
+train_bacth_num:277 start
+train_batch_num 277 uses time 6.964504s
+train_batch_num:277---loss:0.144279---accuracy:0.950000---
+
+train_bacth_num:278 start
+train_batch_num 278 uses time 6.912444s
+train_batch_num:278---loss:0.122961---accuracy:0.960000---
+
+train_bacth_num:279 start
+train_batch_num 279 uses time 6.842309s
+train_batch_num:279---loss:0.101985---accuracy:0.970000---
+
+train_bacth_num:280 start
+train_batch_num 280 uses time 7.027658s
+train_batch_num:280---loss:0.063640---accuracy:0.980000---
+
+train_bacth_num:281 start
+train_batch_num 281 uses time 6.764592s
+train_batch_num:281---loss:0.211032---accuracy:0.910000---
+
+train_bacth_num:282 start
+train_batch_num 282 uses time 6.838955s
+train_batch_num:282---loss:0.089137---accuracy:0.970000---
+
+train_bacth_num:283 start
+train_batch_num 283 uses time 7.132928s
+train_batch_num:283---loss:0.211322---accuracy:0.900000---
+
+train_bacth_num:284 start
+train_batch_num 284 uses time 6.920399s
+train_batch_num:284---loss:0.106668---accuracy:0.950000---
+
+train_bacth_num:285 start
+train_batch_num 285 uses time 6.877692s
+train_batch_num:285---loss:0.184000---accuracy:0.960000---
+
+train_bacth_num:286 start
+train_batch_num 286 uses time 7.267623s
+train_batch_num:286---loss:0.327811---accuracy:0.900000---
+
+train_bacth_num:287 start
+train_batch_num 287 uses time 7.100345s
+train_batch_num:287---loss:0.139242---accuracy:0.960000---
+
+train_bacth_num:288 start
+train_batch_num 288 uses time 6.905764s
+train_batch_num:288---loss:0.104551---accuracy:0.970000---
+
+train_bacth_num:289 start
+train_batch_num 289 uses time 7.174415s
+train_batch_num:289---loss:0.144236---accuracy:0.940000---
+
+train_bacth_num:290 start
+train_batch_num 290 uses time 6.851480s
+train_batch_num:290---loss:0.157496---accuracy:0.930000---
+
+train_bacth_num:291 start
+train_batch_num 291 uses time 6.892574s
+train_batch_num:291---loss:0.184739---accuracy:0.920000---
+
+train_bacth_num:292 start
+train_batch_num 292 uses time 7.044637s
+train_batch_num:292---loss:0.172769---accuracy:0.940000---
+
+train_bacth_num:293 start
+train_batch_num 293 uses time 6.832002s
+train_batch_num:293---loss:0.259275---accuracy:0.910000---
+
+train_bacth_num:294 start
+train_batch_num 294 uses time 6.898099s
+train_batch_num:294---loss:0.214158---accuracy:0.920000---
+
+train_bacth_num:295 start
+train_batch_num 295 uses time 6.938068s
+train_batch_num:295---loss:0.083892---accuracy:0.980000---
+
+train_bacth_num:296 start
+train_batch_num 296 uses time 6.880481s
+train_batch_num:296---loss:0.086526---accuracy:0.980000---
+
+train_bacth_num:297 start
+train_batch_num 297 uses time 6.791572s
+train_batch_num:297---loss:0.177844---accuracy:0.930000---
+
+train_bacth_num:298 start
+train_batch_num 298 uses time 6.898878s
+train_batch_num:298---loss:0.191805---accuracy:0.940000---
+
+train_bacth_num:299 start
+train_batch_num 299 uses time 6.804927s
+train_batch_num:299---loss:0.190010---accuracy:0.930000---
+
+train_bacth_num:300 start
+train_batch_num 300 uses time 7.091571s
+train_batch_num:300---loss:0.114564---accuracy:0.980000---
+
+train_bacth_num:301 start
+train_batch_num 301 uses time 6.932437s
+train_batch_num:301---loss:0.198456---accuracy:0.930000---
+
+train_bacth_num:302 start
+train_batch_num 302 uses time 7.150883s
+train_batch_num:302---loss:0.081016---accuracy:0.980000---
+
+train_bacth_num:303 start
+train_batch_num 303 uses time 6.973994s
+train_batch_num:303---loss:0.097665---accuracy:0.980000---
+
+train_bacth_num:304 start
+train_batch_num 304 uses time 7.004502s
+train_batch_num:304---loss:0.150814---accuracy:0.950000---
+
+train_bacth_num:305 start
+train_batch_num 305 uses time 6.962184s
+train_batch_num:305---loss:0.169330---accuracy:0.950000---
+
+train_bacth_num:306 start
+train_batch_num 306 uses time 7.075949s
+train_batch_num:306---loss:0.246789---accuracy:0.940000---
+
+train_bacth_num:307 start
+train_batch_num 307 uses time 6.960911s
+train_batch_num:307---loss:0.160761---accuracy:0.930000---
+
+train_bacth_num:308 start
+train_batch_num 308 uses time 7.060445s
+train_batch_num:308---loss:0.187100---accuracy:0.940000---
+
+train_bacth_num:309 start
+train_batch_num 309 uses time 7.330805s
+train_batch_num:309---loss:0.162644---accuracy:0.950000---
+
+train_bacth_num:310 start
+train_batch_num 310 uses time 6.836897s
+train_batch_num:310---loss:0.165721---accuracy:0.940000---
+
+train_bacth_num:311 start
+train_batch_num 311 uses time 6.789243s
+train_batch_num:311---loss:0.295317---accuracy:0.950000---
+
+train_bacth_num:312 start
+train_batch_num 312 uses time 6.966971s
+train_batch_num:312---loss:0.108027---accuracy:0.970000---
+
+train_bacth_num:313 start
+train_batch_num 313 uses time 6.962358s
+train_batch_num:313---loss:0.260098---accuracy:0.910000---
+
+train_bacth_num:314 start
+train_batch_num 314 uses time 7.044303s
+train_batch_num:314---loss:0.254061---accuracy:0.920000---
+
+train_bacth_num:315 start
+train_batch_num 315 uses time 7.110925s
+train_batch_num:315---loss:0.182031---accuracy:0.950000---
+
+train_bacth_num:316 start
+train_batch_num 316 uses time 7.141342s
+train_batch_num:316---loss:0.289973---accuracy:0.910000---
+
+train_bacth_num:317 start
+train_batch_num 317 uses time 6.876507s
+train_batch_num:317---loss:0.265370---accuracy:0.940000---
+
+train_bacth_num:318 start
+train_batch_num 318 uses time 6.899688s
+train_batch_num:318---loss:0.084070---accuracy:0.980000---
+
+train_bacth_num:319 start
+train_batch_num 319 uses time 6.865465s
+train_batch_num:319---loss:0.139960---accuracy:0.970000---
+
+train_bacth_num:320 start
+train_batch_num 320 uses time 6.938324s
+train_batch_num:320---loss:0.142530---accuracy:0.960000---
+
+train_bacth_num:321 start
+train_batch_num 321 uses time 6.835180s
+train_batch_num:321---loss:0.099749---accuracy:0.980000---
+
+train_bacth_num:322 start
+train_batch_num 322 uses time 6.887538s
+train_batch_num:322---loss:0.157184---accuracy:0.950000---
+
+train_bacth_num:323 start
+train_batch_num 323 uses time 6.862992s
+train_batch_num:323---loss:0.198421---accuracy:0.910000---
+
+train_bacth_num:324 start
+train_batch_num 324 uses time 7.149231s
+train_batch_num:324---loss:0.254270---accuracy:0.930000---
+
+train_bacth_num:325 start
+train_batch_num 325 uses time 7.057674s
+train_batch_num:325---loss:0.105708---accuracy:0.970000---
+
+train_bacth_num:326 start
+train_batch_num 326 uses time 6.761238s
+train_batch_num:326---loss:0.093775---accuracy:0.980000---
+
+train_bacth_num:327 start
+train_batch_num 327 uses time 6.927843s
+train_batch_num:327---loss:0.172911---accuracy:0.970000---
+
+train_bacth_num:328 start
+train_batch_num 328 uses time 6.738231s
+train_batch_num:328---loss:0.135871---accuracy:0.940000---
+
+train_bacth_num:329 start
+train_batch_num 329 uses time 6.598542s
+train_batch_num:329---loss:0.054453---accuracy:0.980000---
+
+train_bacth_num:330 start
+train_batch_num 330 uses time 6.652858s
+train_batch_num:330---loss:0.076817---accuracy:0.970000---
+
+train_bacth_num:331 start
+train_batch_num 331 uses time 6.534031s
+train_batch_num:331---loss:0.152153---accuracy:0.960000---
+
+train_bacth_num:332 start
+train_batch_num 332 uses time 6.674874s
+train_batch_num:332---loss:0.140683---accuracy:0.950000---
+
+train_bacth_num:333 start
+train_batch_num 333 uses time 6.836590s
+train_batch_num:333---loss:0.225104---accuracy:0.950000---
+
+train_bacth_num:334 start
+train_batch_num 334 uses time 6.516784s
+train_batch_num:334---loss:0.109307---accuracy:0.950000---
+
+train_bacth_num:335 start
+train_batch_num 335 uses time 6.619262s
+train_batch_num:335---loss:0.124855---accuracy:0.950000---
+
+train_bacth_num:336 start
+train_batch_num 336 uses time 6.667813s
+train_batch_num:336---loss:0.125694---accuracy:0.960000---
+
+train_bacth_num:337 start
+train_batch_num 337 uses time 6.831588s
+train_batch_num:337---loss:0.181497---accuracy:0.960000---
+
+train_bacth_num:338 start
+train_batch_num 338 uses time 6.701423s
+train_batch_num:338---loss:0.041949---accuracy:0.990000---
+
+train_bacth_num:339 start
+train_batch_num 339 uses time 6.556020s
+train_batch_num:339---loss:0.075541---accuracy:0.960000---
+
+train_bacth_num:340 start
+train_batch_num 340 uses time 6.566558s
+train_batch_num:340---loss:0.175189---accuracy:0.960000---
+
+train_bacth_num:341 start
+train_batch_num 341 uses time 6.567466s
+train_batch_num:341---loss:0.045818---accuracy:0.990000---
+
+train_bacth_num:342 start
+train_batch_num 342 uses time 6.490176s
+train_batch_num:342---loss:0.075215---accuracy:0.980000---
+
+train_bacth_num:343 start
+train_batch_num 343 uses time 6.527915s
+train_batch_num:343---loss:0.088101---accuracy:0.980000---
+
+train_bacth_num:344 start
+train_batch_num 344 uses time 7.162581s
+train_batch_num:344---loss:0.296798---accuracy:0.950000---
+
+train_bacth_num:345 start
+train_batch_num 345 uses time 6.787618s
+train_batch_num:345---loss:0.196150---accuracy:0.930000---
+
+train_bacth_num:346 start
+train_batch_num 346 uses time 6.702271s
+train_batch_num:346---loss:0.127099---accuracy:0.950000---
+
+train_bacth_num:347 start
+train_batch_num 347 uses time 6.698024s
+train_batch_num:347---loss:0.170417---accuracy:0.970000---
+
+train_bacth_num:348 start
+train_batch_num 348 uses time 6.690959s
+train_batch_num:348---loss:0.190717---accuracy:0.930000---
+
+train_bacth_num:349 start
+train_batch_num 349 uses time 6.682384s
+train_batch_num:349---loss:0.147658---accuracy:0.940000---
+
+train_bacth_num:350 start
+train_batch_num 350 uses time 6.526138s
+train_batch_num:350---loss:0.099833---accuracy:0.980000---
+
+train_bacth_num:351 start
+train_batch_num 351 uses time 6.596803s
+train_batch_num:351---loss:0.103855---accuracy:0.980000---
+
+train_bacth_num:352 start
+train_batch_num 352 uses time 6.658561s
+train_batch_num:352---loss:0.204712---accuracy:0.950000---
+
+train_bacth_num:353 start
+train_batch_num 353 uses time 6.629119s
+train_batch_num:353---loss:0.069507---accuracy:0.970000---
+
+train_bacth_num:354 start
+train_batch_num 354 uses time 6.709186s
+train_batch_num:354---loss:0.184194---accuracy:0.950000---
+
+train_bacth_num:355 start
+train_batch_num 355 uses time 6.597463s
+train_batch_num:355---loss:0.054444---accuracy:0.980000---
+
+train_bacth_num:356 start
+train_batch_num 356 uses time 6.600450s
+train_batch_num:356---loss:0.187463---accuracy:0.950000---
+
+train_bacth_num:357 start
+train_batch_num 357 uses time 6.517359s
+train_batch_num:357---loss:0.049625---accuracy:0.980000---
+
+train_bacth_num:358 start
+train_batch_num 358 uses time 6.534296s
+train_batch_num:358---loss:0.056979---accuracy:0.980000---
+
+train_bacth_num:359 start
+train_batch_num 359 uses time 6.743772s
+train_batch_num:359---loss:0.146693---accuracy:0.950000---
+
+train_bacth_num:360 start
+train_batch_num 360 uses time 6.571432s
+train_batch_num:360---loss:0.095374---accuracy:0.980000---
+
+train_bacth_num:361 start
+train_batch_num 361 uses time 6.668568s
+train_batch_num:361---loss:0.169152---accuracy:0.960000---
+
+train_bacth_num:362 start
+train_batch_num 362 uses time 6.659446s
+train_batch_num:362---loss:0.112066---accuracy:0.970000---
+
+train_bacth_num:363 start
+train_batch_num 363 uses time 6.528327s
+train_batch_num:363---loss:0.038251---accuracy:0.990000---
+
+train_bacth_num:364 start
+train_batch_num 364 uses time 6.654284s
+train_batch_num:364---loss:0.152036---accuracy:0.930000---
+
+train_bacth_num:365 start
+train_batch_num 365 uses time 6.861368s
+train_batch_num:365---loss:0.077505---accuracy:0.980000---
+
+train_bacth_num:366 start
+train_batch_num 366 uses time 6.579367s
+train_batch_num:366---loss:0.066952---accuracy:0.970000---
+
+train_bacth_num:367 start
+train_batch_num 367 uses time 6.532268s
+train_batch_num:367---loss:0.161326---accuracy:0.970000---
+
+train_bacth_num:368 start
+train_batch_num 368 uses time 6.590381s
+train_batch_num:368---loss:0.228917---accuracy:0.900000---
+
+train_bacth_num:369 start
+train_batch_num 369 uses time 6.578321s
+train_batch_num:369---loss:0.069023---accuracy:0.980000---
+
+train_bacth_num:370 start
+train_batch_num 370 uses time 6.614074s
+train_batch_num:370---loss:0.295816---accuracy:0.920000---
+
+train_bacth_num:371 start
+train_batch_num 371 uses time 6.896394s
+train_batch_num:371---loss:0.124421---accuracy:0.960000---
+
+train_bacth_num:372 start
+train_batch_num 372 uses time 6.872834s
+train_batch_num:372---loss:0.152699---accuracy:0.950000---
+
+train_bacth_num:373 start
+train_batch_num 373 uses time 6.660581s
+train_batch_num:373---loss:0.151265---accuracy:0.960000---
+
+train_bacth_num:374 start
+train_batch_num 374 uses time 6.599137s
+train_batch_num:374---loss:0.287791---accuracy:0.930000---
+
+train_bacth_num:375 start
+train_batch_num 375 uses time 6.515890s
+train_batch_num:375---loss:0.141897---accuracy:0.940000---
+
+train_bacth_num:376 start
+train_batch_num 376 uses time 6.604801s
+train_batch_num:376---loss:0.093630---accuracy:0.960000---
+
+train_bacth_num:377 start
+train_batch_num 377 uses time 6.501682s
+train_batch_num:377---loss:0.176177---accuracy:0.950000---
+
+train_bacth_num:378 start
+train_batch_num 378 uses time 6.483988s
+train_batch_num:378---loss:0.197831---accuracy:0.960000---
+
+train_bacth_num:379 start
+train_batch_num 379 uses time 6.652426s
+train_batch_num:379---loss:0.050790---accuracy:1.000000---
+
+train_bacth_num:380 start
+train_batch_num 380 uses time 6.674707s
+train_batch_num:380---loss:0.085794---accuracy:0.980000---
+
+train_bacth_num:381 start
+train_batch_num 381 uses time 6.491894s
+train_batch_num:381---loss:0.035915---accuracy:1.000000---
+
+train_bacth_num:382 start
+train_batch_num 382 uses time 6.614934s
+train_batch_num:382---loss:0.098626---accuracy:0.960000---
+
+train_bacth_num:383 start
+train_batch_num 383 uses time 6.650665s
+train_batch_num:383---loss:0.168963---accuracy:0.950000---
+
+train_bacth_num:384 start
+train_batch_num 384 uses time 6.628605s
+train_batch_num:384---loss:0.083802---accuracy:0.970000---
+
+train_bacth_num:385 start
+train_batch_num 385 uses time 6.584406s
+train_batch_num:385---loss:0.156863---accuracy:0.940000---
+
+train_bacth_num:386 start
+train_batch_num 386 uses time 6.653061s
+train_batch_num:386---loss:0.154857---accuracy:0.960000---
+
+train_bacth_num:387 start
+train_batch_num 387 uses time 6.745108s
+train_batch_num:387---loss:0.162497---accuracy:0.970000---
+
+train_bacth_num:388 start
+train_batch_num 388 uses time 6.645466s
+train_batch_num:388---loss:0.036963---accuracy:1.000000---
+
+train_bacth_num:389 start
+train_batch_num 389 uses time 6.594708s
+train_batch_num:389---loss:0.071157---accuracy:0.970000---
+
+train_bacth_num:390 start
+train_batch_num 390 uses time 7.317138s
+train_batch_num:390---loss:0.085509---accuracy:0.980000---
+
+train_bacth_num:391 start
+train_batch_num 391 uses time 7.171016s
+train_batch_num:391---loss:0.133889---accuracy:0.960000---
+
+train_bacth_num:392 start
+train_batch_num 392 uses time 7.061513s
+train_batch_num:392---loss:0.119405---accuracy:0.970000---
+
+train_bacth_num:393 start
+train_batch_num 393 uses time 6.664784s
+train_batch_num:393---loss:0.363907---accuracy:0.900000---
+
+train_bacth_num:394 start
+train_batch_num 394 uses time 6.781523s
+train_batch_num:394---loss:0.202404---accuracy:0.950000---
+
+train_bacth_num:395 start
+train_batch_num 395 uses time 6.741860s
+train_batch_num:395---loss:0.104267---accuracy:0.970000---
+
+train_bacth_num:396 start
+train_batch_num 396 uses time 6.954353s
+train_batch_num:396---loss:0.133442---accuracy:0.960000---
+
+train_bacth_num:397 start
+train_batch_num 397 uses time 6.946005s
+train_batch_num:397---loss:0.134999---accuracy:0.960000---
+
+train_bacth_num:398 start
+train_batch_num 398 uses time 7.100140s
+train_batch_num:398---loss:0.138363---accuracy:0.950000---
+
+train_bacth_num:399 start
+train_batch_num 399 uses time 7.050346s
+train_batch_num:399---loss:0.123382---accuracy:0.950000---
+
+train_bacth_num:400 start
+train_batch_num 400 uses time 6.790981s
+train_batch_num:400---loss:0.094226---accuracy:0.970000---
+
+train_bacth_num:401 start
+train_batch_num 401 uses time 6.740690s
+train_batch_num:401---loss:0.077269---accuracy:0.970000---
+
+train_bacth_num:402 start
+train_batch_num 402 uses time 6.996647s
+train_batch_num:402---loss:0.064342---accuracy:0.980000---
+
+train_bacth_num:403 start
+train_batch_num 403 uses time 6.936169s
+train_batch_num:403---loss:0.151121---accuracy:0.960000---
+
+train_bacth_num:404 start
+train_batch_num 404 uses time 6.814054s
+train_batch_num:404---loss:0.051562---accuracy:0.980000---
+
+train_bacth_num:405 start
+train_batch_num 405 uses time 7.146805s
+train_batch_num:405---loss:0.166033---accuracy:0.960000---
+
+train_bacth_num:406 start
+train_batch_num 406 uses time 6.899456s
+train_batch_num:406---loss:0.127547---accuracy:0.970000---
+
+train_bacth_num:407 start
+train_batch_num 407 uses time 6.983776s
+train_batch_num:407---loss:0.143817---accuracy:0.940000---
+
+train_bacth_num:408 start
+train_batch_num 408 uses time 7.059264s
+train_batch_num:408---loss:0.090770---accuracy:0.960000---
+
+train_bacth_num:409 start
+train_batch_num 409 uses time 6.955046s
+train_batch_num:409---loss:0.119740---accuracy:0.970000---
+
+train_bacth_num:410 start
+train_batch_num 410 uses time 6.978749s
+train_batch_num:410---loss:0.170365---accuracy:0.950000---
+
+train_bacth_num:411 start
+train_batch_num 411 uses time 7.213025s
+train_batch_num:411---loss:0.068701---accuracy:0.990000---
+
+train_bacth_num:412 start
+train_batch_num 412 uses time 6.656999s
+train_batch_num:412---loss:0.198899---accuracy:0.920000---
+
+train_bacth_num:413 start
+train_batch_num 413 uses time 6.703954s
+train_batch_num:413---loss:0.204799---accuracy:0.960000---
+
+train_bacth_num:414 start
+train_batch_num 414 uses time 6.895679s
+train_batch_num:414---loss:0.262874---accuracy:0.950000---
+
+train_bacth_num:415 start
+train_batch_num 415 uses time 6.878088s
+train_batch_num:415---loss:0.215336---accuracy:0.960000---
+
+train_bacth_num:416 start
+train_batch_num 416 uses time 6.941027s
+train_batch_num:416---loss:0.124676---accuracy:0.950000---
+
+train_bacth_num:417 start
+train_batch_num 417 uses time 7.170123s
+train_batch_num:417---loss:0.066766---accuracy:0.990000---
+
+train_bacth_num:418 start
+train_batch_num 418 uses time 6.976133s
+train_batch_num:418---loss:0.102506---accuracy:0.970000---
+
+train_bacth_num:419 start
+train_batch_num 419 uses time 6.842925s
+train_batch_num:419---loss:0.183164---accuracy:0.970000---
+
+train_bacth_num:420 start
+train_batch_num 420 uses time 6.941167s
+train_batch_num:420---loss:0.127459---accuracy:0.980000---
+
+train_bacth_num:421 start
+train_batch_num 421 uses time 6.825106s
+train_batch_num:421---loss:0.096240---accuracy:0.970000---
+
+train_bacth_num:422 start
+train_batch_num 422 uses time 6.956234s
+train_batch_num:422---loss:0.057677---accuracy:1.000000---
+
+train_bacth_num:423 start
+train_batch_num 423 uses time 6.749952s
+train_batch_num:423---loss:0.132845---accuracy:0.960000---
+
+train_bacth_num:424 start
+train_batch_num 424 uses time 7.138077s
+train_batch_num:424---loss:0.255358---accuracy:0.920000---
+
+train_bacth_num:425 start
+train_batch_num 425 uses time 6.930473s
+train_batch_num:425---loss:0.232539---accuracy:0.940000---
+
+train_bacth_num:426 start
+train_batch_num 426 uses time 6.819043s
+train_batch_num:426---loss:0.130410---accuracy:0.950000---
+
+train_bacth_num:427 start
+train_batch_num 427 uses time 7.258647s
+train_batch_num:427---loss:0.119909---accuracy:0.970000---
+
+train_bacth_num:428 start
+train_batch_num 428 uses time 6.990191s
+train_batch_num:428---loss:0.182697---accuracy:0.940000---
+
+train_bacth_num:429 start
+train_batch_num 429 uses time 6.950356s
+train_batch_num:429---loss:0.221412---accuracy:0.940000---
+
+train_bacth_num:430 start
+train_batch_num 430 uses time 7.035323s
+train_batch_num:430---loss:0.185864---accuracy:0.940000---
+
+train_bacth_num:431 start
+train_batch_num 431 uses time 7.087564s
+train_batch_num:431---loss:0.086575---accuracy:0.970000---
+
+train_bacth_num:432 start
+train_batch_num 432 uses time 6.612723s
+train_batch_num:432---loss:0.137536---accuracy:0.960000---
+
+train_bacth_num:433 start
+train_batch_num 433 uses time 6.906965s
+train_batch_num:433---loss:0.060326---accuracy:0.990000---
+
+train_bacth_num:434 start
+train_batch_num 434 uses time 6.739570s
+train_batch_num:434---loss:0.081273---accuracy:0.970000---
+
+train_bacth_num:435 start
+train_batch_num 435 uses time 6.943428s
+train_batch_num:435---loss:0.109295---accuracy:0.960000---
+
+train_bacth_num:436 start
+train_batch_num 436 uses time 7.076447s
+train_batch_num:436---loss:0.162441---accuracy:0.950000---
+
+train_bacth_num:437 start
+train_batch_num 437 uses time 7.241157s
+train_batch_num:437---loss:0.049598---accuracy:0.990000---
+
+train_bacth_num:438 start
+train_batch_num 438 uses time 6.816077s
+train_batch_num:438---loss:0.116414---accuracy:0.980000---
+
+train_bacth_num:439 start
+train_batch_num 439 uses time 6.796377s
+train_batch_num:439---loss:0.145098---accuracy:0.970000---
+
+train_bacth_num:440 start
+train_batch_num 440 uses time 7.063809s
+train_batch_num:440---loss:0.107794---accuracy:0.960000---
+
+train_bacth_num:441 start
+train_batch_num 441 uses time 6.742515s
+train_batch_num:441---loss:0.172161---accuracy:0.940000---
+
+train_bacth_num:442 start
+train_batch_num 442 uses time 6.965739s
+train_batch_num:442---loss:0.149828---accuracy:0.950000---
+
+train_bacth_num:443 start
+train_batch_num 443 uses time 6.787192s
+train_batch_num:443---loss:0.116708---accuracy:0.970000---
+
+train_bacth_num:444 start
+train_batch_num 444 uses time 6.683587s
+train_batch_num:444---loss:0.271855---accuracy:0.930000---
+
+train_bacth_num:445 start
+train_batch_num 445 uses time 6.741914s
+train_batch_num:445---loss:0.097357---accuracy:0.960000---
+
+train_bacth_num:446 start
+train_batch_num 446 uses time 6.426908s
+train_batch_num:446---loss:0.064461---accuracy:0.970000---
+
+train_bacth_num:447 start
+train_batch_num 447 uses time 6.502022s
+train_batch_num:447---loss:0.145426---accuracy:0.950000---
+
+train_bacth_num:448 start
+train_batch_num 448 uses time 6.545444s
+train_batch_num:448---loss:0.249102---accuracy:0.920000---
+
+train_bacth_num:449 start
+train_batch_num 449 uses time 6.605976s
+train_batch_num:449---loss:0.110698---accuracy:0.960000---
+
+train_bacth_num:450 start
+train_batch_num 450 uses time 6.533153s
+train_batch_num:450---loss:0.102219---accuracy:0.980000---
+
+train_bacth_num:451 start
+train_batch_num 451 uses time 6.609477s
+train_batch_num:451---loss:0.114100---accuracy:0.970000---
+
+train_bacth_num:452 start
+train_batch_num 452 uses time 7.147444s
+train_batch_num:452---loss:0.155521---accuracy:0.930000---
+
+train_bacth_num:453 start
+train_batch_num 453 uses time 7.070502s
+train_batch_num:453---loss:0.040920---accuracy:0.990000---
+
+train_bacth_num:454 start
+train_batch_num 454 uses time 7.015829s
+train_batch_num:454---loss:0.100568---accuracy:0.960000---
+
+train_bacth_num:455 start
+train_batch_num 455 uses time 7.233551s
+train_batch_num:455---loss:0.168336---accuracy:0.930000---
+
+train_bacth_num:456 start
+train_batch_num 456 uses time 6.707037s
+train_batch_num:456---loss:0.170461---accuracy:0.920000---
+
+train_bacth_num:457 start
+train_batch_num 457 uses time 7.178827s
+train_batch_num:457---loss:0.121355---accuracy:0.960000---
+
+train_bacth_num:458 start
+train_batch_num 458 uses time 6.776167s
+train_batch_num:458---loss:0.236328---accuracy:0.930000---
+
+train_bacth_num:459 start
+train_batch_num 459 uses time 6.989243s
+train_batch_num:459---loss:0.182286---accuracy:0.940000---
+
+train_bacth_num:460 start
+train_batch_num 460 uses time 7.156520s
+train_batch_num:460---loss:0.163389---accuracy:0.950000---
+
+train_bacth_num:461 start
+train_batch_num 461 uses time 6.850682s
+train_batch_num:461---loss:0.142440---accuracy:0.940000---
+
+train_bacth_num:462 start
+train_batch_num 462 uses time 6.985726s
+train_batch_num:462---loss:0.263547---accuracy:0.930000---
+
+train_bacth_num:463 start
+train_batch_num 463 uses time 6.789586s
+train_batch_num:463---loss:0.267113---accuracy:0.900000---
+
+train_bacth_num:464 start
+train_batch_num 464 uses time 6.828147s
+train_batch_num:464---loss:0.236817---accuracy:0.920000---
+
+train_bacth_num:465 start
+train_batch_num 465 uses time 6.823208s
+train_batch_num:465---loss:0.048486---accuracy:0.990000---
+
+train_bacth_num:466 start
+train_batch_num 466 uses time 6.929014s
+train_batch_num:466---loss:0.084684---accuracy:0.980000---
+
+train_bacth_num:467 start
+train_batch_num 467 uses time 7.121899s
+train_batch_num:467---loss:0.151654---accuracy:0.950000---
+
+train_bacth_num:468 start
+train_batch_num 468 uses time 7.179772s
+train_batch_num:468---loss:0.149595---accuracy:0.970000---
+
+train_bacth_num:469 start
+train_batch_num 469 uses time 6.972954s
+train_batch_num:469---loss:0.088719---accuracy:0.980000---
+
+train_bacth_num:470 start
+train_batch_num 470 uses time 7.036396s
+train_batch_num:470---loss:0.131728---accuracy:0.970000---
+
+train_bacth_num:471 start
+train_batch_num 471 uses time 6.951798s
+train_batch_num:471---loss:0.075459---accuracy:0.980000---
+
+train_bacth_num:472 start
+train_batch_num 472 uses time 6.821311s
+train_batch_num:472---loss:0.236971---accuracy:0.920000---
+
+train_bacth_num:473 start
+train_batch_num 473 uses time 7.083904s
+train_batch_num:473---loss:0.135479---accuracy:0.960000---
+
+train_bacth_num:474 start
+train_batch_num 474 uses time 6.759541s
+train_batch_num:474---loss:0.179949---accuracy:0.930000---
+
+train_bacth_num:475 start
+train_batch_num 475 uses time 6.908644s
+train_batch_num:475---loss:0.165807---accuracy:0.930000---
+
+train_bacth_num:476 start
+train_batch_num 476 uses time 7.050241s
+train_batch_num:476---loss:0.214554---accuracy:0.930000---
+
+train_bacth_num:477 start
+train_batch_num 477 uses time 7.014367s
+train_batch_num:477---loss:0.134065---accuracy:0.950000---
+
+train_bacth_num:478 start
+train_batch_num 478 uses time 6.996311s
+train_batch_num:478---loss:0.080789---accuracy:0.960000---
+
+train_bacth_num:479 start
+train_batch_num 479 uses time 6.963359s
+train_batch_num:479---loss:0.223796---accuracy:0.930000---
+
+train_bacth_num:480 start
+train_batch_num 480 uses time 7.035679s
+train_batch_num:480---loss:0.138341---accuracy:0.950000---
+
+train_bacth_num:481 start
+train_batch_num 481 uses time 6.951456s
+train_batch_num:481---loss:0.092595---accuracy:0.980000---
+
+train_bacth_num:482 start
+train_batch_num 482 uses time 7.013769s
+train_batch_num:482---loss:0.145770---accuracy:0.950000---
+
+train_bacth_num:483 start
+train_batch_num 483 uses time 6.821061s
+train_batch_num:483---loss:0.113380---accuracy:0.950000---
+
+train_bacth_num:484 start
+train_batch_num 484 uses time 7.193722s
+train_batch_num:484---loss:0.048632---accuracy:1.000000---
+
+train_bacth_num:485 start
+train_batch_num 485 uses time 7.145799s
+train_batch_num:485---loss:0.099845---accuracy:0.970000---
+
+train_bacth_num:486 start
+train_batch_num 486 uses time 7.147547s
+train_batch_num:486---loss:0.104930---accuracy:0.940000---
+
+train_bacth_num:487 start
+train_batch_num 487 uses time 6.853519s
+train_batch_num:487---loss:0.037057---accuracy:1.000000---
+
+train_bacth_num:488 start
+train_batch_num 488 uses time 7.255444s
+train_batch_num:488---loss:0.048667---accuracy:0.990000---
+
+train_bacth_num:489 start
+train_batch_num 489 uses time 7.126150s
+train_batch_num:489---loss:0.227869---accuracy:0.940000---
+
+train_bacth_num:490 start
+train_batch_num 490 uses time 6.905718s
+train_batch_num:490---loss:0.280528---accuracy:0.930000---
+
+train_bacth_num:491 start
+train_batch_num 491 uses time 6.876551s
+train_batch_num:491---loss:0.101929---accuracy:0.970000---
+
+train_bacth_num:492 start
+train_batch_num 492 uses time 7.000201s
+train_batch_num:492---loss:0.106896---accuracy:0.970000---
+
+train_bacth_num:493 start
+train_batch_num 493 uses time 7.009806s
+train_batch_num:493---loss:0.060962---accuracy:0.990000---
+
+train_bacth_num:494 start
+train_batch_num 494 uses time 7.376108s
+train_batch_num:494---loss:0.126955---accuracy:0.930000---
+
+train_bacth_num:495 start
+train_batch_num 495 uses time 6.816645s
+train_batch_num:495---loss:0.266249---accuracy:0.920000---
+
+train_bacth_num:496 start
+train_batch_num 496 uses time 6.830202s
+train_batch_num:496---loss:0.169576---accuracy:0.940000---
+
+train_bacth_num:497 start
+train_batch_num 497 uses time 6.919058s
+train_batch_num:497---loss:0.103757---accuracy:0.960000---
+
+train_bacth_num:498 start
+train_batch_num 498 uses time 6.856590s
+train_batch_num:498---loss:0.189542---accuracy:0.950000---
+
+train_bacth_num:499 start
+train_batch_num 499 uses time 6.891154s
+train_batch_num:499---loss:0.126168---accuracy:0.960000---
+
+train_bacth_num:500 start
+train_batch_num 500 uses time 6.685922s
+train_batch_num:500---loss:0.042170---accuracy:1.000000---
+
+train_bacth_num:501 start
+train_batch_num 501 uses time 6.968648s
+train_batch_num:501---loss:0.048352---accuracy:0.980000---
+
+train_bacth_num:502 start
+train_batch_num 502 uses time 6.900826s
+train_batch_num:502---loss:0.210929---accuracy:0.950000---
+
+train_bacth_num:503 start
+train_batch_num 503 uses time 6.940857s
+train_batch_num:503---loss:0.266976---accuracy:0.910000---
+
+train_bacth_num:504 start
+train_batch_num 504 uses time 7.037551s
+train_batch_num:504---loss:0.269889---accuracy:0.920000---
+
+train_bacth_num:505 start
+train_batch_num 505 uses time 7.129054s
+train_batch_num:505---loss:0.251912---accuracy:0.960000---
+
+train_bacth_num:506 start
+train_batch_num 506 uses time 7.176633s
+train_batch_num:506---loss:0.095796---accuracy:0.980000---
+
+train_bacth_num:507 start
+train_batch_num 507 uses time 6.916928s
+train_batch_num:507---loss:0.177564---accuracy:0.950000---
+
+train_bacth_num:508 start
+train_batch_num 508 uses time 6.603459s
+train_batch_num:508---loss:0.077876---accuracy:0.970000---
+
+train_bacth_num:509 start
+train_batch_num 509 uses time 6.737239s
+train_batch_num:509---loss:0.057239---accuracy:0.980000---
+
+train_bacth_num:510 start
+train_batch_num 510 uses time 6.740692s
+train_batch_num:510---loss:0.036704---accuracy:0.990000---
+
+train_bacth_num:511 start
+train_batch_num 511 uses time 6.748353s
+train_batch_num:511---loss:0.086887---accuracy:0.970000---
+
+train_bacth_num:512 start
+train_batch_num 512 uses time 6.954294s
+train_batch_num:512---loss:0.222141---accuracy:0.920000---
+
+train_bacth_num:513 start
+train_batch_num 513 uses time 7.139715s
+train_batch_num:513---loss:0.057292---accuracy:0.970000---
+
+train_bacth_num:514 start
+train_batch_num 514 uses time 6.772066s
+train_batch_num:514---loss:0.060965---accuracy:0.980000---
+
+train_bacth_num:515 start
+train_batch_num 515 uses time 6.809291s
+train_batch_num:515---loss:0.069723---accuracy:0.980000---
+
+train_bacth_num:516 start
+train_batch_num 516 uses time 7.008622s
+train_batch_num:516---loss:0.064660---accuracy:0.970000---
+
+train_bacth_num:517 start
+train_batch_num 517 uses time 7.060149s
+train_batch_num:517---loss:0.148339---accuracy:0.970000---
+
+train_bacth_num:518 start
+train_batch_num 518 uses time 6.877397s
+train_batch_num:518---loss:0.049849---accuracy:0.990000---
+
+train_bacth_num:519 start
+train_batch_num 519 uses time 6.767930s
+train_batch_num:519---loss:0.209822---accuracy:0.920000---
+
+train_bacth_num:520 start
+train_batch_num 520 uses time 6.957266s
+train_batch_num:520---loss:0.108270---accuracy:0.970000---
+
+train_bacth_num:521 start
+train_batch_num 521 uses time 7.220708s
+train_batch_num:521---loss:0.146042---accuracy:0.950000---
+
+train_bacth_num:522 start
+train_batch_num 522 uses time 6.976600s
+train_batch_num:522---loss:0.173036---accuracy:0.950000---
+
+train_bacth_num:523 start
+train_batch_num 523 uses time 7.219354s
+train_batch_num:523---loss:0.132306---accuracy:0.970000---
+
+train_bacth_num:524 start
+train_batch_num 524 uses time 7.161685s
+train_batch_num:524---loss:0.058338---accuracy:0.980000---
+
+train_bacth_num:525 start
+train_batch_num 525 uses time 6.770591s
+train_batch_num:525---loss:0.032562---accuracy:0.990000---
+
+train_bacth_num:526 start
+train_batch_num 526 uses time 6.952292s
+train_batch_num:526---loss:0.105263---accuracy:0.980000---
+
+train_bacth_num:527 start
+train_batch_num 527 uses time 6.956248s
+train_batch_num:527---loss:0.146003---accuracy:0.940000---
+
+train_bacth_num:528 start
+train_batch_num 528 uses time 7.156826s
+train_batch_num:528---loss:0.208971---accuracy:0.920000---
+
+train_bacth_num:529 start
+train_batch_num 529 uses time 6.908482s
+train_batch_num:529---loss:0.365896---accuracy:0.890000---
+
+train_bacth_num:530 start
+train_batch_num 530 uses time 6.982130s
+train_batch_num:530---loss:0.060483---accuracy:0.980000---
+
+train_bacth_num:531 start
+train_batch_num 531 uses time 6.854952s
+train_batch_num:531---loss:0.140274---accuracy:0.960000---
+
+train_bacth_num:532 start
+train_batch_num 532 uses time 6.810131s
+train_batch_num:532---loss:0.118919---accuracy:0.980000---
+
+train_bacth_num:533 start
+train_batch_num 533 uses time 6.858809s
+train_batch_num:533---loss:0.084800---accuracy:0.960000---
+
+train_bacth_num:534 start
+train_batch_num 534 uses time 6.867661s
+train_batch_num:534---loss:0.047549---accuracy:0.990000---
+
+train_bacth_num:535 start
+train_batch_num 535 uses time 6.868168s
+train_batch_num:535---loss:0.180065---accuracy:0.960000---
+
+train_bacth_num:536 start
+train_batch_num 536 uses time 6.833732s
+train_batch_num:536---loss:0.196579---accuracy:0.940000---
+
+train_bacth_num:537 start
+train_batch_num 537 uses time 6.817655s
+train_batch_num:537---loss:0.071948---accuracy:0.960000---
+
+train_bacth_num:538 start
+train_batch_num 538 uses time 6.817536s
+train_batch_num:538---loss:0.116707---accuracy:0.970000---
+
+train_bacth_num:539 start
+train_batch_num 539 uses time 6.951832s
+train_batch_num:539---loss:0.176419---accuracy:0.960000---
+
+train_bacth_num:540 start
+train_batch_num 540 uses time 7.296433s
+train_batch_num:540---loss:0.100322---accuracy:0.970000---
+
+train_bacth_num:541 start
+train_batch_num 541 uses time 7.157357s
+train_batch_num:541---loss:0.082014---accuracy:0.970000---
+
+train_bacth_num:542 start
+train_batch_num 542 uses time 6.768310s
+train_batch_num:542---loss:0.062418---accuracy:0.990000---
+
+train_bacth_num:543 start
+train_batch_num 543 uses time 6.845666s
+train_batch_num:543---loss:0.073717---accuracy:0.980000---
+
+train_bacth_num:544 start
+train_batch_num 544 uses time 7.132906s
+train_batch_num:544---loss:0.054083---accuracy:0.990000---
+
+train_bacth_num:545 start
+train_batch_num 545 uses time 6.782608s
+train_batch_num:545---loss:0.140053---accuracy:0.950000---
+
+train_bacth_num:546 start
+train_batch_num 546 uses time 6.901036s
+train_batch_num:546---loss:0.065989---accuracy:0.980000---
+
+train_bacth_num:547 start
+train_batch_num 547 uses time 6.807311s
+train_batch_num:547---loss:0.091338---accuracy:0.980000---
+
+train_bacth_num:548 start
+train_batch_num 548 uses time 6.996593s
+train_batch_num:548---loss:0.109942---accuracy:0.950000---
+
+train_bacth_num:549 start
+train_batch_num 549 uses time 7.028078s
+train_batch_num:549---loss:0.122700---accuracy:0.960000---
+
+train_bacth_num:550 start
+train_batch_num 550 uses time 6.817832s
+train_batch_num:550---loss:0.063833---accuracy:0.970000---
+
+train_bacth_num:551 start
+train_batch_num 551 uses time 7.051219s
+train_batch_num:551---loss:0.106056---accuracy:0.960000---
+
+train_bacth_num:552 start
+train_batch_num 552 uses time 6.911774s
+train_batch_num:552---loss:0.090727---accuracy:0.980000---
+
+train_bacth_num:553 start
+train_batch_num 553 uses time 6.944817s
+train_batch_num:553---loss:0.116297---accuracy:0.960000---
+
+train_bacth_num:554 start
+train_batch_num 554 uses time 7.192429s
+train_batch_num:554---loss:0.099058---accuracy:0.960000---
+
+train_bacth_num:555 start
+train_batch_num 555 uses time 6.717640s
+train_batch_num:555---loss:0.087299---accuracy:0.980000---
+
+train_bacth_num:556 start
+train_batch_num 556 uses time 6.980682s
+train_batch_num:556---loss:0.086734---accuracy:0.980000---
+
+train_bacth_num:557 start
+train_batch_num 557 uses time 6.787451s
+train_batch_num:557---loss:0.130371---accuracy:0.970000---
+
+train_bacth_num:558 start
+train_batch_num 558 uses time 7.088409s
+train_batch_num:558---loss:0.122911---accuracy:0.960000---
+
+train_bacth_num:559 start
+train_batch_num 559 uses time 7.116048s
+train_batch_num:559---loss:0.058221---accuracy:0.980000---
+
+train_bacth_num:560 start
+train_batch_num 560 uses time 6.904363s
+train_batch_num:560---loss:0.123629---accuracy:0.960000---
+
+train_bacth_num:561 start
+train_batch_num 561 uses time 6.841774s
+train_batch_num:561---loss:0.066840---accuracy:0.990000---
+
+train_bacth_num:562 start
+train_batch_num 562 uses time 7.220006s
+train_batch_num:562---loss:0.122174---accuracy:0.950000---
+
+train_bacth_num:563 start
+train_batch_num 563 uses time 7.151875s
+train_batch_num:563---loss:0.059051---accuracy:0.990000---
+
+train_bacth_num:564 start
+train_batch_num 564 uses time 6.870076s
+train_batch_num:564---loss:0.183514---accuracy:0.940000---
+
+train_bacth_num:565 start
+train_batch_num 565 uses time 7.174394s
+train_batch_num:565---loss:0.033127---accuracy:1.000000---
+
+train_bacth_num:566 start
+train_batch_num 566 uses time 7.118835s
+train_batch_num:566---loss:0.081565---accuracy:0.980000---
+
+train_bacth_num:567 start
+train_batch_num 567 uses time 6.857875s
+train_batch_num:567---loss:0.055341---accuracy:0.980000---
+
+train_bacth_num:568 start
+train_batch_num 568 uses time 6.939668s
+train_batch_num:568---loss:0.094923---accuracy:0.970000---
+
+train_bacth_num:569 start
+train_batch_num 569 uses time 6.974165s
+train_batch_num:569---loss:0.070050---accuracy:0.970000---
+
+train_bacth_num:570 start
+train_batch_num 570 uses time 6.689606s
+train_batch_num:570---loss:0.104589---accuracy:0.950000---
+
+train_bacth_num:571 start
+train_batch_num 571 uses time 6.949168s
+train_batch_num:571---loss:0.019083---accuracy:1.000000---
+
+train_bacth_num:572 start
+train_batch_num 572 uses time 6.941801s
+train_batch_num:572---loss:0.055337---accuracy:0.990000---
+
+train_bacth_num:573 start
+train_batch_num 573 uses time 6.943389s
+train_batch_num:573---loss:0.094089---accuracy:0.950000---
+
+train_bacth_num:574 start
+train_batch_num 574 uses time 6.984758s
+train_batch_num:574---loss:0.051971---accuracy:0.990000---
+
+train_bacth_num:575 start
+train_batch_num 575 uses time 7.057214s
+train_batch_num:575---loss:0.061235---accuracy:0.980000---
+
+train_bacth_num:576 start
+train_batch_num 576 uses time 6.930124s
+train_batch_num:576---loss:0.136327---accuracy:0.940000---
+
+train_bacth_num:577 start
+train_batch_num 577 uses time 7.151362s
+train_batch_num:577---loss:0.127422---accuracy:0.940000---
+
+train_bacth_num:578 start
+train_batch_num 578 uses time 7.512908s
+train_batch_num:578---loss:0.024475---accuracy:1.000000---
+
+train_bacth_num:579 start
+train_batch_num 579 uses time 7.150717s
+train_batch_num:579---loss:0.034158---accuracy:0.990000---
+
+train_bacth_num:580 start
+train_batch_num 580 uses time 7.124191s
+train_batch_num:580---loss:0.113318---accuracy:0.960000---
+
+train_bacth_num:581 start
+train_batch_num 581 uses time 6.874041s
+train_batch_num:581---loss:0.049816---accuracy:0.980000---
+
+train_bacth_num:582 start
+train_batch_num 582 uses time 6.879335s
+train_batch_num:582---loss:0.018604---accuracy:0.990000---
+
+train_bacth_num:583 start
+train_batch_num 583 uses time 7.037861s
+train_batch_num:583---loss:0.058553---accuracy:0.990000---
+
+train_bacth_num:584 start
+train_batch_num 584 uses time 6.925796s
+train_batch_num:584---loss:0.050223---accuracy:0.980000---
+
+train_bacth_num:585 start
+train_batch_num 585 uses time 7.089769s
+train_batch_num:585---loss:0.038324---accuracy:0.990000---
+
+train_bacth_num:586 start
+train_batch_num 586 uses time 6.800035s
+train_batch_num:586---loss:0.051412---accuracy:0.980000---
+
+train_bacth_num:587 start
+train_batch_num 587 uses time 6.851603s
+train_batch_num:587---loss:0.014559---accuracy:1.000000---
+
+train_bacth_num:588 start
+train_batch_num 588 uses time 6.784066s
+train_batch_num:588---loss:0.072474---accuracy:0.980000---
+
+train_bacth_num:589 start
+train_batch_num 589 uses time 6.792733s
+train_batch_num:589---loss:0.006509---accuracy:1.000000---
+
+train_bacth_num:590 start
+train_batch_num 590 uses time 6.894191s
+train_batch_num:590---loss:0.005776---accuracy:1.000000---
+
+train_bacth_num:591 start
+train_batch_num 591 uses time 7.091577s
+train_batch_num:591---loss:0.004041---accuracy:1.000000---
+
+train_bacth_num:592 start
+train_batch_num 592 uses time 6.726316s
+train_batch_num:592---loss:0.043722---accuracy:0.990000---
+
+train_bacth_num:593 start
+train_batch_num 593 uses time 7.126897s
+train_batch_num:593---loss:0.069768---accuracy:0.990000---
+
+train_bacth_num:594 start
+train_batch_num 594 uses time 6.934426s
+train_batch_num:594---loss:0.036459---accuracy:0.990000---
+
+train_bacth_num:595 start
+train_batch_num 595 uses time 6.885212s
+train_batch_num:595---loss:0.011674---accuracy:1.000000---
+
+train_bacth_num:596 start
+train_batch_num 596 uses time 6.815504s
+train_batch_num:596---loss:0.037609---accuracy:0.990000---
+
+train_bacth_num:597 start
+train_batch_num 597 uses time 6.949504s
+train_batch_num:597---loss:0.421960---accuracy:0.940000---
+
+train_bacth_num:598 start
+train_batch_num 598 uses time 6.760218s
+train_batch_num:598---loss:0.005891---accuracy:1.000000---
+
+train_bacth_num:599 start
+train_batch_num 599 uses time 6.854537s
+train_batch_num:599---loss:0.193826---accuracy:0.990000---
+
+test_bacth_num:0 start
+test_batch_num 0 uses time 4.786025s
+test_bacth_num:0---loss:0.037936---accuracy:0.980000---
+
+test_bacth_num:1 start
+test_batch_num 1 uses time 4.801903s
+test_bacth_num:1---loss:0.043056---accuracy:1.000000---
+
+test_bacth_num:2 start
+test_batch_num 2 uses time 4.722572s
+test_bacth_num:2---loss:0.129225---accuracy:0.950000---
+
+test_bacth_num:3 start
+test_batch_num 3 uses time 4.998049s
+test_bacth_num:3---loss:0.120567---accuracy:0.960000---
+
+test_bacth_num:4 start
+test_batch_num 4 uses time 4.674926s
+test_bacth_num:4---loss:0.140524---accuracy:0.940000---
+
+test_bacth_num:5 start
+test_batch_num 5 uses time 4.693020s
+test_bacth_num:5---loss:0.142044---accuracy:0.960000---
+
+test_bacth_num:6 start
+test_batch_num 6 uses time 4.692640s
+test_bacth_num:6---loss:0.112715---accuracy:0.960000---
+
+test_bacth_num:7 start
+test_batch_num 7 uses time 4.656764s
+test_bacth_num:7---loss:0.120180---accuracy:0.960000---
+
+test_bacth_num:8 start
+test_batch_num 8 uses time 4.792059s
+test_bacth_num:8---loss:0.088210---accuracy:0.970000---
+
+test_bacth_num:9 start
+test_batch_num 9 uses time 4.775016s
+test_bacth_num:9---loss:0.132266---accuracy:0.950000---
+
+test_bacth_num:10 start
+test_batch_num 10 uses time 4.666084s
+test_bacth_num:10---loss:0.120214---accuracy:0.960000---
+
+test_bacth_num:11 start
+test_batch_num 11 uses time 4.776188s
+test_bacth_num:11---loss:0.224683---accuracy:0.920000---
+
+test_bacth_num:12 start
+test_batch_num 12 uses time 4.656052s
+test_bacth_num:12---loss:0.262230---accuracy:0.900000---
+
+test_bacth_num:13 start
+test_batch_num 13 uses time 4.680070s
+test_bacth_num:13---loss:0.113049---accuracy:0.980000---
+
+test_bacth_num:14 start
+test_batch_num 14 uses time 4.604027s
+test_bacth_num:14---loss:0.115388---accuracy:0.970000---
+
+test_bacth_num:15 start
+test_batch_num 15 uses time 4.888520s
+test_bacth_num:15---loss:0.201851---accuracy:0.930000---
+
+test_bacth_num:16 start
+test_batch_num 16 uses time 4.824704s
+test_bacth_num:16---loss:0.106963---accuracy:0.960000---
+
+test_bacth_num:17 start
+test_batch_num 17 uses time 4.751711s
+test_bacth_num:17---loss:0.164449---accuracy:0.950000---
+
+test_bacth_num:18 start
+test_batch_num 18 uses time 4.889291s
+test_bacth_num:18---loss:0.148489---accuracy:0.940000---
+
+test_bacth_num:19 start
+test_batch_num 19 uses time 4.715673s
+test_bacth_num:19---loss:0.140414---accuracy:0.950000---
+
+test_bacth_num:20 start
+test_batch_num 20 uses time 4.828071s
+test_bacth_num:20---loss:0.230247---accuracy:0.930000---
+
+test_bacth_num:21 start
+test_batch_num 21 uses time 4.701200s
+test_bacth_num:21---loss:0.327559---accuracy:0.910000---
+
+test_bacth_num:22 start
+test_batch_num 22 uses time 4.882463s
+test_bacth_num:22---loss:0.064540---accuracy:0.980000---
+
+test_bacth_num:23 start
+test_batch_num 23 uses time 4.805355s
+test_bacth_num:23---loss:0.109506---accuracy:0.970000---
+
+test_bacth_num:24 start
+test_batch_num 24 uses time 4.672398s
+test_bacth_num:24---loss:0.171606---accuracy:0.940000---
+
+test_bacth_num:25 start
+test_batch_num 25 uses time 4.626056s
+test_bacth_num:25---loss:0.059258---accuracy:0.990000---
+
+test_bacth_num:26 start
+test_batch_num 26 uses time 4.704817s
+test_bacth_num:26---loss:0.136672---accuracy:0.990000---
+
+test_bacth_num:27 start
+test_batch_num 27 uses time 4.512780s
+test_bacth_num:27---loss:0.140789---accuracy:0.950000---
+
+test_bacth_num:28 start
+test_batch_num 28 uses time 4.808284s
+test_bacth_num:28---loss:0.123484---accuracy:0.970000---
+
+test_bacth_num:29 start
+test_batch_num 29 uses time 4.701651s
+test_bacth_num:29---loss:0.224727---accuracy:0.920000---
+
+test_bacth_num:30 start
+test_batch_num 30 uses time 4.813523s
+test_bacth_num:30---loss:0.128209---accuracy:0.950000---
+
+test_bacth_num:31 start
+test_batch_num 31 uses time 4.915017s
+test_bacth_num:31---loss:0.088880---accuracy:0.980000---
+
+test_bacth_num:32 start
+test_batch_num 32 uses time 4.837384s
+test_bacth_num:32---loss:0.141665---accuracy:0.960000---
+
+test_bacth_num:33 start
+test_batch_num 33 uses time 4.640729s
+test_bacth_num:33---loss:0.098179---accuracy:0.970000---
+
+test_bacth_num:34 start
+test_batch_num 34 uses time 4.634407s
+test_bacth_num:34---loss:0.096323---accuracy:0.960000---
+
+test_bacth_num:35 start
+test_batch_num 35 uses time 4.858961s
+test_bacth_num:35---loss:0.282178---accuracy:0.920000---
+
+test_bacth_num:36 start
+test_batch_num 36 uses time 4.733561s
+test_bacth_num:36---loss:0.067460---accuracy:0.960000---
+
+test_bacth_num:37 start
+test_batch_num 37 uses time 4.794218s
+test_bacth_num:37---loss:0.231014---accuracy:0.920000---
+
+test_bacth_num:38 start
+test_batch_num 38 uses time 4.674381s
+test_bacth_num:38---loss:0.222755---accuracy:0.950000---
+
+test_bacth_num:39 start
+test_batch_num 39 uses time 4.808286s
+test_bacth_num:39---loss:0.126080---accuracy:0.950000---
+
+test_bacth_num:40 start
+test_batch_num 40 uses time 4.922612s
+test_bacth_num:40---loss:0.173201---accuracy:0.940000---
+
+test_bacth_num:41 start
+test_batch_num 41 uses time 4.886977s
+test_bacth_num:41---loss:0.111218---accuracy:0.960000---
+
+test_bacth_num:42 start
+test_batch_num 42 uses time 4.815055s
+test_bacth_num:42---loss:0.176745---accuracy:0.940000---
+
+test_bacth_num:43 start
+test_batch_num 43 uses time 4.710910s
+test_bacth_num:43---loss:0.099054---accuracy:0.960000---
+
+test_bacth_num:44 start
+test_batch_num 44 uses time 4.710762s
+test_bacth_num:44---loss:0.101019---accuracy:0.960000---
+
+test_bacth_num:45 start
+test_batch_num 45 uses time 4.719479s
+test_bacth_num:45---loss:0.190636---accuracy:0.950000---
+
+test_bacth_num:46 start
+test_batch_num 46 uses time 4.663405s
+test_bacth_num:46---loss:0.158461---accuracy:0.940000---
+
+test_bacth_num:47 start
+test_batch_num 47 uses time 4.741142s
+test_bacth_num:47---loss:0.094501---accuracy:0.970000---
+
+test_bacth_num:48 start
+test_batch_num 48 uses time 4.826271s
+test_bacth_num:48---loss:0.292962---accuracy:0.890000---
+
+test_bacth_num:49 start
+test_batch_num 49 uses time 5.032215s
+test_bacth_num:49---loss:0.128718---accuracy:0.960000---
+
+test_bacth_num:50 start
+test_batch_num 50 uses time 5.122805s
+test_bacth_num:50---loss:0.059392---accuracy:0.970000---
+
+test_bacth_num:51 start
+test_batch_num 51 uses time 4.927862s
+test_bacth_num:51---loss:0.066832---accuracy:0.980000---
+
+test_bacth_num:52 start
+test_batch_num 52 uses time 4.689979s
+test_bacth_num:52---loss:0.035472---accuracy:0.990000---
+
+test_bacth_num:53 start
+test_batch_num 53 uses time 5.192143s
+test_bacth_num:53---loss:0.018635---accuracy:0.990000---
+
+test_bacth_num:54 start
+test_batch_num 54 uses time 4.817574s
+test_bacth_num:54---loss:0.007436---accuracy:1.000000---
+
+test_bacth_num:55 start
+test_batch_num 55 uses time 4.753388s
+test_bacth_num:55---loss:0.017245---accuracy:1.000000---
+
+test_bacth_num:56 start
+test_batch_num 56 uses time 4.750479s
+test_bacth_num:56---loss:0.139317---accuracy:0.940000---
+
+test_bacth_num:57 start
+test_batch_num 57 uses time 4.695838s
+test_bacth_num:57---loss:0.060946---accuracy:0.970000---
+
+test_bacth_num:58 start
+test_batch_num 58 uses time 4.666994s
+test_bacth_num:58---loss:0.197444---accuracy:0.950000---
+
+test_bacth_num:59 start
+test_batch_num 59 uses time 4.634571s
+test_bacth_num:59---loss:0.138752---accuracy:0.950000---
+
+test_bacth_num:60 start
+test_batch_num 60 uses time 4.729173s
+test_bacth_num:60---loss:0.139843---accuracy:0.940000---
+
+test_bacth_num:61 start
+test_batch_num 61 uses time 4.782900s
+test_bacth_num:61---loss:0.080516---accuracy:0.970000---
+
+test_bacth_num:62 start
+test_batch_num 62 uses time 4.650185s
+test_bacth_num:62---loss:0.002577---accuracy:1.000000---
+
+test_bacth_num:63 start
+test_batch_num 63 uses time 4.798270s
+test_bacth_num:63---loss:0.012881---accuracy:1.000000---
+
+test_bacth_num:64 start
+test_batch_num 64 uses time 4.931410s
+test_bacth_num:64---loss:0.023452---accuracy:0.990000---
+
+test_bacth_num:65 start
+test_batch_num 65 uses time 4.746399s
+test_bacth_num:65---loss:0.204276---accuracy:0.950000---
+
+test_bacth_num:66 start
+test_batch_num 66 uses time 4.768839s
+test_bacth_num:66---loss:0.081111---accuracy:0.960000---
+
+test_bacth_num:67 start
+test_batch_num 67 uses time 4.743419s
+test_bacth_num:67---loss:0.030949---accuracy:0.990000---
+
+test_bacth_num:68 start
+test_batch_num 68 uses time 4.710946s
+test_bacth_num:68---loss:0.012040---accuracy:1.000000---
+
+test_bacth_num:69 start
+test_batch_num 69 uses time 4.674452s
+test_bacth_num:69---loss:0.023055---accuracy:0.990000---
+
+test_bacth_num:70 start
+test_batch_num 70 uses time 4.864465s
+test_bacth_num:70---loss:0.007843---accuracy:1.000000---
+
+test_bacth_num:71 start
+test_batch_num 71 uses time 4.699059s
+test_bacth_num:71---loss:0.012749---accuracy:1.000000---
+
+test_bacth_num:72 start
+test_batch_num 72 uses time 4.724407s
+test_bacth_num:72---loss:0.074911---accuracy:0.970000---
+
+test_bacth_num:73 start
+test_batch_num 73 uses time 5.155624s
+test_bacth_num:73---loss:0.012620---accuracy:1.000000---
+
+test_bacth_num:74 start
+test_batch_num 74 uses time 5.338141s
+test_bacth_num:74---loss:0.062347---accuracy:0.980000---
+
+test_bacth_num:75 start
+test_batch_num 75 uses time 4.958299s
+test_bacth_num:75---loss:0.027723---accuracy:1.000000---
+
+test_bacth_num:76 start
+test_batch_num 76 uses time 4.724196s
+test_bacth_num:76---loss:0.013107---accuracy:1.000000---
+
+test_bacth_num:77 start
+test_batch_num 77 uses time 4.997617s
+test_bacth_num:77---loss:0.007072---accuracy:1.000000---
+
+test_bacth_num:78 start
+test_batch_num 78 uses time 5.386672s
+test_bacth_num:78---loss:0.062687---accuracy:0.970000---
+
+test_bacth_num:79 start
+test_batch_num 79 uses time 5.197264s
+test_bacth_num:79---loss:0.068775---accuracy:0.980000---
+
+test_bacth_num:80 start
+test_batch_num 80 uses time 4.840382s
+test_bacth_num:80---loss:0.073103---accuracy:0.980000---
+
+test_bacth_num:81 start
+test_batch_num 81 uses time 4.770747s
+test_bacth_num:81---loss:0.034259---accuracy:0.990000---
+
+test_bacth_num:82 start
+test_batch_num 82 uses time 4.986375s
+test_bacth_num:82---loss:0.019018---accuracy:1.000000---
+
+test_bacth_num:83 start
+test_batch_num 83 uses time 4.823619s
+test_bacth_num:83---loss:0.045203---accuracy:0.990000---
+
+test_bacth_num:84 start
+test_batch_num 84 uses time 4.957031s
+test_bacth_num:84---loss:0.038425---accuracy:0.990000---
+
+test_bacth_num:85 start
+test_batch_num 85 uses time 4.618597s
+test_bacth_num:85---loss:0.031329---accuracy:0.980000---
+
+test_bacth_num:86 start
+test_batch_num 86 uses time 4.878410s
+test_bacth_num:86---loss:0.024526---accuracy:0.990000---
+
+test_bacth_num:87 start
+test_batch_num 87 uses time 5.044083s
+test_bacth_num:87---loss:0.001854---accuracy:1.000000---
+
+test_bacth_num:88 start
+test_batch_num 88 uses time 5.248789s
+test_bacth_num:88---loss:0.002379---accuracy:1.000000---
+
+test_bacth_num:89 start
+test_batch_num 89 uses time 5.238456s
+test_bacth_num:89---loss:0.002898---accuracy:1.000000---
+
+test_bacth_num:90 start
+test_batch_num 90 uses time 5.304318s
+test_bacth_num:90---loss:0.300878---accuracy:0.930000---
+
+test_bacth_num:91 start
+test_batch_num 91 uses time 4.986070s
+test_bacth_num:91---loss:0.007118---accuracy:1.000000---
+
+test_bacth_num:92 start
+test_batch_num 92 uses time 4.716777s
+test_bacth_num:92---loss:0.046956---accuracy:0.990000---
+
+test_bacth_num:93 start
+test_batch_num 93 uses time 4.684855s
+test_bacth_num:93---loss:0.011068---accuracy:1.000000---
+
+test_bacth_num:94 start
+test_batch_num 94 uses time 4.874518s
+test_bacth_num:94---loss:0.022622---accuracy:1.000000---
+
+test_bacth_num:95 start
+test_batch_num 95 uses time 4.986596s
+test_bacth_num:95---loss:0.040388---accuracy:0.970000---
+
+test_bacth_num:96 start
+test_batch_num 96 uses time 4.870885s
+test_bacth_num:96---loss:0.133926---accuracy:0.970000---
+
+test_bacth_num:97 start
+test_batch_num 97 uses time 5.082915s
+test_bacth_num:97---loss:0.233236---accuracy:0.910000---
+
+test_bacth_num:98 start
+test_batch_num 98 uses time 4.768590s
+test_bacth_num:98---loss:0.107332---accuracy:0.950000---
+
+test_bacth_num:99 start
+test_batch_num 99 uses time 5.029172s
+test_bacth_num:99---loss:0.093099---accuracy:0.960000---
